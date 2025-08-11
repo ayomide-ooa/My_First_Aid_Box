@@ -1,0 +1,44 @@
+<WelcomeScreen>:
+    name: 'welcome'
+
+    MDBoxLayout:
+        id: 'one'
+        pos_hint: {'center_x': .5, 'center_y': .58}
+        size: 7.5, 30
+        size_hint: None, None
+        md_bg_color: app.theme_cls.primaryColor
+
+    MDBoxLayout:
+        pos_hint: {'center_x': .5, 'center_y': .58}
+        size_hint: None, None
+        size: 30, 7.5
+        md_bg_color: app.theme_cls.primaryColor
+#
+    Label:
+        text: 'My First Aid Box'
+        bold: True
+        font_size: '22dp'
+        halign: 'center'
+        color: app.theme_cls.primaryColor
+#        font_family: 'T1Robit'
+        font_name: 'T1Robit'
+        theme_font_name: 'Primary'
+        pos_hint: {'center_y': .5}
+        theme_font_name: 'Custom'
+#        on_touch_down: root.show_animation()
+
+    MDButton:
+        style: 'filled'
+        on_release: app.change_screen('disclaimer', 'left', None)
+        theme_elevation_level: 'Custom'
+        elevation_level: 4
+        theme_shadow_softness: 'Custom'
+        shadow_softness: 8
+        theme_shadow_offset: 'Custom'
+        shadow_offset: 0, -4
+        font_name: 'T1Robit'
+        pos_hint: {'center_x': .5, 'center_y': .2}
+
+        MDButtonText:
+            text: 'WELCOME'
+            bold: True

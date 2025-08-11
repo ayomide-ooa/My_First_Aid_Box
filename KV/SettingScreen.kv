@@ -1,0 +1,48 @@
+<SettingScreen>:
+
+#    MDBoxLayout:
+#        padding: '20dp'
+#        orientation: 'vertical'
+#        adaptive_height: True
+#
+#        MDLabel:
+#            text: 'Settings'
+#            bold: True
+#            font_style: 'Headline'
+#            role: 'small'
+#            text_color: app.theme_cls.onSurfaceColor
+
+    MDScrollView:
+        MDBoxLayout:
+            orientation: 'vertical'
+#            spacing: '10dp'
+#            height: self.minimum_height
+            adaptive_height: True
+#            MDListItem:
+#                md_bg_color: 'blue'
+##                icon: 'cog'
+            MDLabel:
+                text: 'Settings'
+                font_style: 'Headline'
+                role: 'small'
+                bold: True
+                text_color: app.theme_cls.onSurfaceColor
+                pos_hint: {'center_x': .5, 'center_y': .5}
+                md_bg_color: 'green'
+                padding: '20dp'
+            ListItem:
+                text: 'Dark Mode'
+                icon: 'theme-light-dark'
+                MDSwitch:
+                    id: theme_switch
+                    on_active: app.toggle_theme(self.active)
+                    active: app.theme_cls.theme_style == 'Dark'
+
+
+<ListItem>
+    MDListItemHeadlineText:
+        text: root.text
+        bold: False
+    MDListItemLeadingIcon:
+        icon: root.icon
+        pos_hint: {'center_x': .5, 'center_y': .5}

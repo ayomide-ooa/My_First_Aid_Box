@@ -1,0 +1,163 @@
+<SicknessListItem>
+    text_color: app.theme_cls.primaryColor
+    on_touch_down: root.switch_to_chat()
+    MDListItemHeadlineText:
+        text: root.text
+
+#<CommonAssistChip@MDChip>
+#    id: symp_chip
+#    type: "assist"
+#    text: ''
+#    MDChipLeadingIcon:
+#        icon: 'plus'
+#    MDChipText:
+#        text: root.text
+
+<HomeScreen>:
+    MDBoxLayout:
+        orientation: 'vertical'
+
+
+        MDScrollView:
+            MDBoxLayout:
+                id: main_layout
+                orientation: 'vertical'
+                adaptive_height: True
+                padding: '24dp'
+                spacing: '24dp'
+
+                MDTextField:
+                    id: condition_input
+                    font_size: '16dp'
+                    pos_hint: {'center_x': .5, 'top': .88}
+                    mode: 'outlined'
+                    size_hint: 1, None
+                    theme_font_name: 'Custom'
+                    theme_text_color: 'Secondary'
+                    multiline: True
+                    max_height: self.max_height
+                    text_color: app.theme_cls.onSurfaceColor
+                    on_text: root.load_sickness_data(self.text, True)
+
+                    MDTextFieldHintText:
+                        text: 'How are you feeling?'
+                        text_color_normal: app.theme_cls.onSurfaceColor
+                        size_hint_y: '20dp'
+                    MDTextFieldHelperText:
+                        text: 'use a simpler terms (cough, fever)'
+                        mode: 'persistent'
+
+                MDStackLayout:
+                    orientation: 'lr-tb'
+                    adaptive_height: True
+#                    pos_hint: {'center_x': 0.5}
+                    spacing: '15dp'
+                    padding: '10dp'
+
+                    MDButton:
+                        id: analyze_button
+                        style: 'filled'
+                        on_release: root.load_sickness_data() #search_conditions()
+                        pos_hint: {'center_x': .7}
+                        MDButtonText:
+                            text: 'Search'
+                            padding: '12dp'
+
+                    MDButton:
+#                        id: analyze_button
+                        style: 'outlined'
+#                        on_release: root.clear_results()
+                        pos_hint: {'center_x': 2}
+                        MDButtonText:
+                            text: 'Clear'
+                            padding: '12dp'
+
+                Label:
+                    text: 'Choose from the options below'
+
+                MDStackLayout:
+                    id: chip_box
+                    orientation: 'lr-tb'
+                    adaptive_height: True
+                    spacing: "12dp"
+                    padding: 0, "24dp", 0, 0
+#                    MDRecycleView:
+#                        id: chip_rv
+#                        key_viewclass: 'viewclass'
+#                        key_size: 'height'
+#                    CommonAssistChip:
+#                        text: "Home office"
+#                    CommonAssistChip:
+#                        text: "Home"
+#                    CommonAssistChip:
+#                        text: "office"
+#                    CommonAssistChip:
+#                        text: "Homeoffice maker albert"
+#                    CommonAssistChip:
+#                        text: "Home office"
+#                    CommonAssistChip:
+#                        text: "Home"
+#                    CommonAssistChip:
+#                        text: "office"
+#                    CommonAssistChip:
+#                        text: "Homeoffice maker"
+
+                MDBoxLayout:
+                    id: sickness_list_box
+                    default_size: None, dp(48)
+                    default_size_hint: 1, None
+                    size_hint_y: None
+                    height: 500
+                    padding: 0
+                    MDRecycleView:
+                        id: rv
+                        key_viewclass: 'viewclass'
+                        key_size: 'height'
+                        RecycleBoxLayout:
+#                            padding: dp(10)
+                            default_size: None, dp(48)
+                            default_size_hint: 1, None
+                            size_hint_y: None
+                            height: self.minimum_height
+                            orientation: 'vertical'
+
+#                            spacing: "16dp"
+#                            pos_hint: {'center_y': .5, 'top': .1}
+
+
+#                MDBoxLayout:
+#                    id: results_box
+#                    orientation: 'vertical'
+#                    adaptive_height: True
+#                    spacing: "16dp"
+#                    pos_hint: {'center_y': .5}
+##                    on_touch_up:
+##                        root.manager.current_hero = 'hero'
+##                        root.manager.current = 'message-text'
+
+
+
+#            MDChip:
+#                type: 'filter'
+#                MDChipText:
+#                    text: 'Cough'
+#                MDChipLeadingIcon:
+#                    icon: 'check'
+#            MDChip:
+#                type: 'filter'
+#                MDChipText:
+#                    text: 'Cough'
+#                MDChipLeadingIcon:
+#                    icon: 'check'
+#            MDChip:
+#                type: 'filter'
+#                MDChipText:
+#                    text: 'Cough'
+#                MDChipLeadingIcon:
+#                    icon: 'check'
+#            MDChip:
+#                type: 'filter'
+#                MDChipText:
+#                    text: 'Cough'
+#                MDChipLeadingIcon:
+#                    icon: 'check'

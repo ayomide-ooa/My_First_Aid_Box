@@ -1,0 +1,81 @@
+<DisclaimerScreen>:
+    name: 'disclaimer'
+
+    ScrollView:
+        do_scroll_x: True
+        effect_cls: 'ScrollEffect'
+        bar_width: 0
+        MDBoxLayout:
+            adaptive_height: True
+            spacing: 40
+            orientation: 'vertical'
+
+            MDLabel:
+                text: root.text
+                markup: True
+                font_size: '14dp'
+                halign: 'justify'
+                color: app.theme_cls.secondaryColor
+                pos_hint: {'center_y': .5}
+                font_name: 'T1Robit'
+                theme_font_name: 'Primary'
+                theme_font_size: 'Custom'
+                padding: ('20dp')
+                adaptive_height: True
+                size: self.texture_size
+                text_size: root.width, None
+
+
+            MDBoxLayout:
+                orientation: 'horizontal'
+                spacing: '30dp'
+                pos_hint: {'center_x': .5}
+                adaptive_width: True
+
+                MDButton:
+                    style: 'outlined'
+                    on_release: app.change_screen('welcome', 'right')
+                    outline_color: app.theme_cls.primaryColor
+
+                    MDButtonText:
+                        text: 'Cancel'.upper()
+                        bold: True
+#                        pos_hint: {'center_x': .5, 'center_y': .5}
+
+                MDButton:
+                    style: 'filled'
+                    on_release: app.change_screen('layout', 'left', app.load_symptoms_chip())
+                    theme_elevation_level: 'Custom'
+                    elevation_level: 4
+                    theme_shadow_softness: 'Custom'
+                    shadow_softness: 8
+                    theme_shadow_offset: 'Custom'
+                    shadow_offset: 0, -4
+                    font_name: 'T1Robit'
+
+                    MDButtonText:
+                        text: 'I Understand'.upper()
+                        bold: True
+
+<UnderLayout>:
+    name: 'layout'
+
+#['Aliceblue', 'Antiquewhite', 'Aqua', 'Aquamarine', 'Azure', 'Beige', 'Bisque', 'Black',
+#'Blanchedalmond', 'Blue', 'Blueviolet', 'Brown', 'Burlywood', 'Cadetblue', 'Chartreuse',
+#'Chocolate', 'Coral', 'Cornflowerblue', 'Cornsilk', 'Crimson', 'Cyan', 'Darkblue', 'Darkcyan',
+#'Darkgoldenrod', 'Darkgray', 'Darkgrey', 'Darkgreen', 'Darkkhaki', 'Darkmagenta', 'Darkolivegreen',
+#'Darkorange', 'Darkorchid', 'Darkred', 'Darksalmon', 'Darkseagreen', 'Darkslateblue', 'Darkslategray',
+#'Darkslategrey', 'Darkturquoise', 'Darkviolet', 'Deeppink', 'Deepskyblue', 'Dimgray', 'Dimgrey', 'Dodgerblue',
+#'Firebrick', 'Floralwhite', 'Forestgreen', 'Fuchsia', 'Gainsboro', 'Ghostwhite', 'Gold', 'Goldenrod', 'Gray',
+#'Grey', 'Green', 'Greenyellow', 'Honeydew', 'Hotpink', 'Indianred', 'Indigo', 'Ivory', 'Khaki', 'Lavender',
+#'Lavenderblush', 'Lawngreen', 'Lemonchiffon', 'Lightblue', 'Lightcoral', 'Lightcyan', 'Lightgoldenrodyellow',
+#'Lightgreen', 'Lightgray', 'Lightgrey', 'Lightpink', 'Lightsalmon', 'Lightseagreen', 'Lightskyblue',
+#'Lightslategray', 'Lightslategrey', 'Lightsteelblue', 'Lightyellow', 'Lime', 'Limegreen', 'Linen', 'Magenta',
+#'Maroon', 'Mediumaquamarine', 'Mediumblue', 'Mediumorchid', 'Mediumpurple', 'Mediumseagreen',
+#'Mediumslateblue', 'Mediumspringgreen', 'Mediumturquoise', 'Mediumvioletred', 'Midnightblue', 'Mintcream',
+#'Mistyrose', 'Moccasin', 'Navajowhite', 'Navy', 'Oldlace', 'Olive', 'Olivedrab', 'Orange', 'Orangered',
+#'Orchid', 'Palegoldenrod', 'Palegreen', 'Paleturquoise', 'Palevioletred', 'Papayawhip', 'Peachpuff',
+#'Peru', 'Pink', 'Plum', 'Powderblue', 'Purple', 'Red', 'Rosybrown', 'Royalblue', 'Saddlebrown', 'Salmon',
+#'Sandybrown', 'Seagreen', 'Seashell', 'Sienna', 'Silver', 'Skyblue', 'Slateblue', 'Slategray', 'Slategrey',
+#'Snow', 'Springgreen', 'Steelblue', 'Tan', 'Teal', 'Thistle', 'Tomato', 'Turquoise', 'Violet', 'Wheat',
+#'White', 'Whitesmoke', 'Yellow', 'Yellowgreen']

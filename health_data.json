@@ -1,0 +1,2731 @@
+[
+  {
+    "name": "Acne (pimples)",
+    "keywords": ["pimples", "blackheads", "skin", "acne", "sebaceous glands"],
+    "symptoms": [
+      "Bumps on the face, chest, or back",
+      "Small white 'heads' of pus",
+      "Blackheads of dirt"
+    ],
+    "signs_of_danger": [],
+    "treatment": [
+      "Wash the face twice a day with soap and hot water.",
+      "Wash the hair every 2 days, if possible.",
+      "Expose the affected parts of the body to sunlight.",
+      "Eat as well as possible, drink a lot of water, and get enough sleep.",
+      "Do not use skin or hair lotions that are waxy, oily, or greasy.",
+      "Before going to bed, put a mixture of alcohol with a little sulfur on the face (10 parts alcohol to 1 part sulfur).",
+      "For serious cases forming lumps and pockets of pus, tetracycline may help. Take 1 capsule 4 times a day for 3 days and then 2 capsules daily. It may be necessary to take 1 or 2 capsules daily for months."
+    ],
+    "prevention": [
+      "Maintain good skin hygiene by washing regularly.",
+      "Eat a balanced diet and drink plenty of water.",
+      "Avoid using oily or greasy skin and hair products."
+    ]
+  },
+  {
+    "name": "AIDS (Acquired Immune Deficiency Syndrome)",
+    "keywords": ["HIV", "Human Immunodeficiency Virus", "slim disease", "ART", "antiretroviral", "immunosuppression"],
+    "symptoms": [
+      "Gradual weight loss.",
+      "Diarrhea for more than 1 month.",
+      "A fever for more than 1 month, sometimes with chills or soaking night sweats.",
+      "A bad cough that lasts for more than 1 month.",
+      "Yeast infection in the mouth ('thrush').",
+      "Swollen lymph nodes, anywhere in the body.",
+      "Rashes or painless dark patches on the skin (Kaposi's Sarcoma).",
+      "Warts or sores that keep growing and do not go away, especially around the genital area and buttocks.",
+      "Feeling tired all the time."
+    ],
+    "signs_of_danger": [
+      "Severe weight loss ('slim disease').",
+      "Chronic diarrhea or fever lasting more than a month.",
+      "Persistent cough lasting more than a month (could be TB).",
+      "Opportunistic infections like TB, severe pneumonia, or widespread shingles."
+    ],
+    "treatment": [
+      "There is no cure, but antiretroviral medicines (ART) can help people with HIV stay healthy and live longer.",
+      "Use cotrimoxazole daily to prevent infections like pneumonia.",
+      "Treat any opportunistic infections that occur: diarrhea with Rehydration Drink, thrush with gentian violet, nystatin, or miconazole, warts with trichloroacetic acid or podophyllin, fever with lots of fluids and acetaminophen.",
+      "Eat a highly nutritious diet to maintain strength."
+    ],
+    "prevention": [
+      "Practice safer sex: have sex with only one faithful partner, and always use a condom.",
+      "Do not share needles or syringes for injections.",
+      "Ensure any blood for transfusion is tested for HIV.",
+      "Do not share razors.",
+      "Wear gloves when touching someone's blood or body fluids.",
+      "For pregnant women with HIV, taking ART can prevent the virus from spreading to the baby."
+    ]
+  },
+  {
+    "name": "Allergic Reactions",
+    "keywords": ["allergy", "hives", "hay fever", "allergic shock", "anaphylaxis"],
+    "symptoms": [
+      "Itching rashes, lumpy patches, or hives.",
+      "Runny nose and itching or burning eyes (hay fever).",
+      "Irritation in the throat, difficulty breathing, or asthma.",
+      "Diarrhea (in children allergic to milk)."
+    ],
+    "signs_of_danger": [
+      "Allergic shock (anaphylaxis): sudden paleness, difficulty breathing, weak and rapid pulse, loss of consciousness. This is a medical emergency."
+    ],
+    "treatment": [
+      "Bathe in cool water or use cool compresses.",
+      "Compresses of cool oatmeal water also calm itching.",
+      "If itching is severe, take an antihistamine like chlorpheniramine.",
+      "For allergic shock, inject epinephrine (Adrenalin) immediately."
+    ],
+    "prevention": [
+      "Identify the substance causing the allergy (allergen) and avoid it.",
+      "People with known severe allergies should carry epinephrine."
+    ]
+  },
+  {
+    "name": "Amebas (Amebic Dysentery)",
+    "keywords": ["dysentery", "amebiasis", "parasite", "diarrhea"],
+    "symptoms": [
+      "Diarrhea that comes and goes, sometimes alternating with constipation.",
+      "Cramps in the belly and a frequent need to have a bowel movement.",
+      "Many loose stools with lots of mucus, sometimes stained with blood.",
+      "In severe cases, much blood in the stool and the person may be very weak.",
+      "Usually no fever."
+    ],
+    "signs_of_danger": [
+      "Amebic abscess in the liver: tenderness or pain in the right upper belly, pain may extend to the right chest. This is a serious complication."
+    ],
+    "treatment": [
+      "Treat with metronidazole.",
+      "Follow up with diloxanide furoate, especially for amebic abscesses."
+    ],
+    "prevention": [
+      "Use latrines.",
+      "Protect drinking water sources and boil or filter drinking water.",
+      "Follow guidelines of cleanliness, especially hand washing."
+    ]
+  },
+  {
+    "name": "Anemia",
+    "keywords": ["thin blood", "iron deficiency", "fatigue", "paleness"],
+    "symptoms": [
+      "Pale or transparent skin.",
+      "Pale insides of eyelids.",
+      "White fingernails.",
+      "Pale gums.",
+      "Weakness and fatigue.",
+      "Desire to eat dirt (pica)."
+    ],
+    "signs_of_danger": [
+      "Severe anemia: face and feet may be swollen, the heartbeat is rapid, and the person may have shortness of breath. This is especially dangerous for pregnant women."
+    ],
+    "treatment": [
+      "Eat foods rich in iron (meat, fish, chicken, liver, dark green leafy vegetables, beans, peas, and lentils).",
+      "Take iron (ferrous sulfate) pills.",
+      "Treat the underlying cause (dysentery, hookworm, malaria, blood loss)."
+    ],
+    "prevention": [
+      "Eat an iron-rich diet.",
+      "For pregnant women, taking iron supplements is important.",
+      "Prevent and treat hookworm and malaria.",
+      "Allow 2-3 years between pregnancies to regain strength."
+    ]
+  },
+  {
+    "name": "Appendicitis",
+    "keywords": ["acute abdomen", "belly pain", "appendix", "peritonitis"],
+    "symptoms": [
+      "Steady pain in the belly that gets worse and worse.",
+      "Pain often begins around the navel and moves to the lower right side.",
+      "Loss of appetite, vomiting, constipation, or a mild fever.",
+      "Rebound pain upon examination."
+    ],
+    "signs_of_danger": [
+      "A burst appendix leads to peritonitis, a very dangerous infection of the abdominal lining. Signs include a hard, board-like belly and severe pain. This is a surgical emergency."
+    ],
+    "treatment": [
+      "Seek medical help immediately as surgery is usually needed.",
+      "Do not give anything by mouth and do not give an enema.",
+      "The person should rest very quietly in a half-sitting position."
+    ],
+    "prevention": []
+  },
+  {
+    "name": "Arthritis",
+    "keywords": ["joint pain", "rheumatism", "inflammation"],
+    "symptoms": [
+      "Chronic joint pain.",
+      "Swollen, hot, and red joints."
+    ],
+    "signs_of_danger": [
+      "If only one joint is swollen and feels hot, especially with fever, it may be a serious infection requiring antibiotics."
+    ],
+    "treatment": [
+      "Rest the painful joints.",
+      "Apply hot compresses.",
+      "Take aspirin or another anti-inflammatory pain reliever.",
+      "Do simple exercises to maintain range of motion."
+    ],
+    "prevention": []
+  },
+  {
+    "name": "Asthma",
+    "keywords": ["wheezing", "shortness of breath", "breathing difficulty", "allergy"],
+    "symptoms": [
+      "Fits or attacks of difficult breathing.",
+      "Hissing or wheezing sound, especially when breathing out.",
+      "Sucking in of the skin behind the collar bones and between the ribs when breathing in."
+    ],
+    "signs_of_danger": [
+      "Severe attack where the person cannot get enough air, and nails and lips turn blue. This is a medical emergency."
+    ],
+    "treatment": [
+      "Go to a place with clean air.",
+      "Drink lots of liquids to loosen mucus.",
+      "Drink strong coffee or black tea in an emergency if no medicine is available.",
+      "Use a rescue inhaler (salbutamol) for attacks and a controller inhaler (beclomethasone) for prevention.",
+      "For severe attacks, use prednisolone by mouth or inject epinephrine (adrenalin)."
+    ],
+    "prevention": [
+      "Avoid things that trigger attacks (allergens like dust, pollen, animal hair).",
+      "Keep the house clean and well-aired.",
+      "Do not smoke.",
+      "Use a controller inhaler daily if attacks are frequent."
+    ]
+  },
+  {
+    "name": "Bed Sores (Pressure Sores)",
+    "keywords": ["pressure ulcers", "decubitus ulcers", "skin sores"],
+    "symptoms": [
+      "Chronic open sores over bony parts of the body (buttocks, back, shoulders, elbows, feet)."
+    ],
+    "signs_of_danger": [],
+    "treatment": [
+      "Turn the person every hour.",
+      "Keep skin clean and dry.",
+      "Use soft padding and cushions to relieve pressure on bony parts.",
+      "Ensure good nutrition.",
+      "Clean sores daily and remove any dead flesh.",
+      "Fill the sore with honey or sugar to fight infection and speed healing."
+    ],
+    "prevention": [
+      "Frequent changes of position.",
+      "Good hygiene and skin care.",
+      "Soft bedding and padding.",
+      "Good nutrition."
+    ]
+  },
+  {
+    "name": "Boils and Abscesses",
+    "keywords": ["furuncle", "carbuncle", "skin infection", "pus"],
+    "symptoms": [
+      "Infection that forms a sac of pus under the skin.",
+      "Painful, red, and hot skin around the boil.",
+      "May cause swollen lymph nodes and fever."
+    ],
+    "signs_of_danger": [],
+    "treatment": [
+      "Apply hot compresses several times a day to bring it to a head.",
+      "Let the boil break open by itself; do not squeeze it.",
+      "Once open, continue hot soaks to help it drain.",
+      "If it causes swollen nodes or fever, take an antibiotic like penicillin."
+    ],
+    "prevention": [
+      "Good personal hygiene.",
+      "Clean wounds properly.",
+      "Use sterile needles for injections."
+    ]
+  },
+  {
+    "name": "Broken Bones (Fractures)",
+    "keywords": ["fracture", "break", "splint", "cast"],
+    "symptoms": [
+      "Pain, swelling, and inability to use the injured part.",
+      "The limb may be bent at an unnatural angle.",
+      "A grating sound or feeling when the part is moved."
+    ],
+    "signs_of_danger": [
+      "Open fracture: The bone breaks through the skin. High risk of infection.",
+      "Broken neck or back: Any movement can cause permanent paralysis or death. Do not move the person unless absolutely necessary.",
+      "Signs of severe bleeding or shock."
+    ],
+    "treatment": [
+      "Keep the broken bone in a fixed position using splints or a cast.",
+      "If the bones are far out of position, they may need to be 'set' (straightened) by a skilled person.",
+      "For open fractures, clean the wound thoroughly, give antibiotics, and do not close the wound."
+    ],
+    "prevention": [
+      "Take precautions to avoid falls and accidents."
+    ]
+  },
+  {
+    "name": "Bronchitis",
+    "keywords": ["chest cold", "cough", "phlegm", "smoker's cough"],
+    "symptoms": [
+      "Noisy cough, often with mucus or phlegm.",
+      "In chronic bronchitis, a cough with mucus that lasts for months or years."
+    ],
+    "signs_of_danger": [
+      "If it leads to emphysema (a serious, incurable condition with severe breathing difficulty)."
+    ],
+    "treatment": [
+      "Antibiotics are usually not needed unless it lasts more than a week or shows signs of pneumonia.",
+      "Stop smoking.",
+      "Take an anti-asthma medicine with salbutamol if there is wheezing.",
+      "Breathe hot water vapors and use postural drainage to clear mucus."
+    ],
+    "prevention": [
+      "Do not smoke."
+    ]
+  },
+  {
+    "name": "Brucellosis (Undulant Fever, Malta Fever)",
+    "keywords": ["undulant fever", "Malta fever", "goat fever"],
+    "symptoms": [
+      "Often begins gradually with increasing tiredness, weakness, loss of appetite, headache, stomach ache, and sometimes joint pains.",
+      "Fevers may be mild or severe, often starting with afternoon chills and ending with sweating in the early morning.",
+      "Fevers may come and go, stopping for several days and then returning.",
+      "Swollen lymph nodes in the neck, armpits, and groin."
+    ],
+    "signs_of_danger": [],
+    "treatment": [
+      "Treat with tetracycline or cotrimoxazole for 3 weeks."
+    ],
+    "prevention": [
+      "Drink only boiled or pasteurized milk.",
+      "Be careful when handling animals, especially if you have cuts on your skin."
+    ]
+  },
+  {
+    "name": "Burns",
+    "keywords": ["scald", "thermal injury", "chemical burn", "electrical burn"],
+    "symptoms": [
+      "1st degree: Redness, pain (e.g., sunburn).",
+      "2nd degree: Blisters, pain.",
+      "3rd degree: Destruction of skin, exposed raw or charred flesh."
+    ],
+    "signs_of_danger": [
+      "Deep (3rd degree) burns.",
+      "Any burns that cover large areas of the body.",
+      "Burns can easily lead to shock and dangerous infection."
+    ],
+    "treatment": [
+      "For minor burns, put the burned part in cold water at once.",
+      "For burns with blisters, do not break the blisters. If broken, wash gently and apply sterile Vaseline on a sterile gauze.",
+      "For deep burns, wrap with a clean, moist cloth and get medical help immediately.",
+      "For serious burns, give a Rehydration Drink to prevent shock.",
+      "Keep the burn clean to prevent infection. Covering with honey can help."
+    ],
+    "prevention": [
+      "Keep children away from fires and hot liquids.",
+      "Keep matches and lamps out of reach.",
+      "Turn pan handles away from the edge of the stove."
+    ]
+  },
+  {
+    "name": "Cancer of the skin",
+    "keywords": ["skin cancer", "melanoma", "carcinoma"],
+    "symptoms": [
+      "Usually begins as a small, pearl-colored ring with a hole in the center.",
+      "Grows slowly.",
+      "Can take many forms.",
+      "Most frequent on sun-exposed areas like the face, ears, and neck."
+    ],
+    "signs_of_danger": [
+      "Any chronic sore that does not heal and keeps growing."
+    ],
+    "treatment": [
+      "Surgery is needed to remove them."
+    ],
+    "prevention": [
+      "Protect skin from the sun with clothing and hats.",
+      "Use zinc oxide ointment on exposed skin."
+    ]
+  },
+  {
+    "name": "Cataract",
+    "keywords": ["cloudy eye", "vision loss", "white pupil"],
+    "symptoms": [
+      "The lens of the eye becomes cloudy, making the pupil look gray or white when you shine a light into it.",
+      "Gradual, painless loss of vision."
+    ],
+    "signs_of_danger": [
+      "Progressive loss of vision leading to blindness."
+    ],
+    "treatment": [
+      "Surgery is the only effective treatment."
+    ],
+    "prevention": []
+  },
+  {
+    "name": "Cellulitis",
+    "keywords": ["skin infection", "redness", "swelling", "erysipelas"],
+    "symptoms": [
+      "A very painful, acute infection of the skin.",
+      "Red, hot, swollen area with unclear borders.",
+      "Can appear anywhere on the body, usually after a break in the skin."
+    ],
+    "signs_of_danger": [
+      "Rapidly spreading infection.",
+      "Fever and chills."
+    ],
+    "treatment": [
+      "Start treatment with an antibiotic like penicillin as soon as possible.",
+      "Apply hot compresses.",
+      "Take aspirin for pain."
+    ],
+    "prevention": [
+      "Keep skin clean and properly care for any cuts or wounds."
+    ]
+  },
+  {
+    "name": "Chickenpox",
+    "keywords": ["varicella", "itchy rash", "blisters"],
+    "symptoms": [
+      "Many small, red, itchy spots that turn into little pimples or blisters, which then pop and form scabs.",
+      "Spots, blisters, and scabs are present at the same time.",
+      "Usually begins on the body, then spreads to face, arms, and legs.",
+      "Fever is usually mild."
+    ],
+    "signs_of_danger": [],
+    "treatment": [
+      "Bathe the child daily with soap and warm water.",
+      "To calm itching, apply cool compresses of oatmeal water.",
+      "Cut fingernails short to prevent scratching and infection.",
+      "If scabs get infected, keep them clean and apply an antibiotic ointment."
+    ],
+    "prevention": [
+      "Prevented by vaccination."
+    ]
+  },
+  {
+    "name": "Chlamydia",
+    "keywords": ["STI", "venereal disease", "discharge", "pelvic inflammatory disease"],
+    "symptoms": [
+      "Often has no signs, especially in women.",
+      "Pain or burning during urination.",
+      "In men: drops of pus from the penis.",
+      "In women: yellow or green discharge from the vagina, pain in the lower belly (pelvic inflammatory disease), pain during sex."
+    ],
+    "signs_of_danger": [
+      "Can cause sterility (inability to have a baby) in both men and women if not treated.",
+      "Can cause blindness in babies if the mother is infected and not treated before giving birth."
+    ],
+    "treatment": [
+      "Treat for both gonorrhea and chlamydia at the same time.",
+      "Use one of the following: doxycycline, azithromycin, amoxicillin, erythromycin, or tetracycline.",
+      "All sexual partners must be treated."
+    ],
+    "prevention": [
+      "Practice safer sex by using condoms.",
+      "Have sex with only one faithful partner."
+    ]
+  },
+  {
+    "name": "Cirrhosis of the Liver",
+    "keywords": ["liver disease", "alcoholism", "jaundice", "ascites"],
+    "symptoms": [
+      "Starts like hepatitis, with weakness, loss of appetite, upset stomach, and pain on the right side below the ribs.",
+      "As the illness gets worse, the person gets thinner.",
+      "May vomit blood.",
+      "In serious cases the feet swell, and the belly swells with liquid (ascites).",
+      "The eyes and skin may turn yellowish (jaundice)."
+    ],
+    "signs_of_danger": [
+      "Vomiting blood.",
+      "Severely swollen belly."
+    ],
+    "treatment": [
+      "Stop drinking alcohol completely.",
+      "Eat a good diet with vegetables, fruit, and some protein (but not too much).",
+      "Avoid salt if there is swelling."
+    ],
+    "outcome": "Hard to cure when severe. Most people with severe cirrhosis die from it."
+  },
+  {
+    "name": "Colds and the Flu",
+    "keywords": ["influenza", "runny nose", "cough", "sore throat"],
+    "symptoms": [
+      "Runny nose, cough, sore throat.",
+      "Sometimes fever or pain in the joints.",
+      "Mild diarrhea, especially in young children."
+    ],
+    "signs_of_danger": [
+      "A cold turning into pneumonia, especially in old people or those with chronic lung problems. Look for high fever, coughing up phlegm, shallow fast breathing, or chest pain."
+    ],
+    "treatment": [
+      "Antibiotics do not help.",
+      "Drink plenty of water and get enough rest.",
+      "Aspirin or acetaminophen helps with fever and body aches.",
+      "Fruit juices are helpful."
+    ],
+    "prevention": [
+      "Get enough sleep and eat well.",
+      "Wash hands frequently.",
+      "A sick person should cover their mouth when coughing or sneezing and stay away from babies."
+    ]
+  },
+  {
+    "name": "Corns",
+    "keywords": ["callus", "foot pain", "thick skin"],
+    "symptoms": [
+      "A hard, thick, painful part of the skin, usually on the feet or toes."
+    ],
+    "signs_of_danger": [],
+    "treatment": [
+      "Wear shoes that do not press on the corns.",
+      "Soak the foot in warm water, then trim down the corn with a file or rasp.",
+      "Pad the area around the corn to relieve pressure."
+    ],
+    "prevention": [
+      "Wear comfortable, well-fitting footwear."
+    ]
+  },
+  {
+    "name": "Cuts, Scrapes, and Small Wounds",
+    "keywords": ["laceration", "abrasion", "wound care", "first aid"],
+    "symptoms": [
+      "A break in the skin from an injury."
+    ],
+    "signs_of_danger": [
+      "Signs of infection: redness, swelling, heat, pain, pus, bad smell.",
+      "Deep wounds or puncture wounds have a high risk of tetanus if the person is not vaccinated."
+    ],
+    "treatment": [
+      "Cleanliness is most important.",
+      "Wash hands well.",
+      "Wash the wound thoroughly with soap and boiled water.",
+      "Remove all dirt.",
+      "Apply an antibiotic cream if available and cover with a clean bandage.",
+      "Get a tetanus vaccination if needed."
+    ],
+    "prevention": [
+      "Be careful to avoid injuries."
+    ]
+  },
+  {
+    "name": "Dehydration",
+    "keywords": ["dryness", "thirst", "sunken eyes", "diarrhea complication"],
+    "symptoms": [
+      "Thirst (often an early sign).",
+      "Little or no urine; dark yellow urine.",
+      "Sudden weight loss.",
+      "Dry mouth.",
+      "Sunken, tearless eyes.",
+      "Sagging of the 'soft spot' in infants.",
+      "Loss of skin elasticity."
+    ],
+    "signs_of_danger": [
+      "Severe dehydration can cause rapid, weak pulse (shock), fast, deep breathing, fever, or seizures. This is a medical emergency."
+    ],
+    "treatment": [
+      "Give lots of liquids, especially a Rehydration Drink.",
+      "Continue giving food.",
+      "For babies, continue breastfeeding frequently.",
+      "If signs worsen, seek medical help for possible intravenous fluids."
+    ],
+    "prevention": [
+      "When a person has watery diarrhea or is vomiting, start giving a Rehydration Drink immediately. Do not wait for signs of dehydration to appear."
+    ]
+  },
+  {
+    "name": "Dengue (Breakbone Fever)",
+    "keywords": ["breakbone fever", "dandy fever", "mosquito-borne", "rash"],
+    "symptoms": [
+      "Sudden high fever with chills.",
+      "Severe body aches, headache, sore throat.",
+      "Feeling very ill, weak, and miserable.",
+      "After 3-4 days, a brief period of feeling better, then illness returns for 1-2 days.",
+      "Rash that begins on hands and feet and spreads to the body."
+    ],
+    "signs_of_danger": [
+      "A severe form can cause bleeding into the skin (small dark spots) or dangerous internal bleeding. This is a medical emergency and requires hospitalization."
+    ],
+    "treatment": [
+      "No specific cure; illness goes away by itself.",
+      "Rest, lots of liquids.",
+      "Acetaminophen for fever and pain (avoid aspirin or ibuprofen).",
+      "For severe bleeding, treat for shock and go to a hospital immediately."
+    ],
+    "prevention": [
+      "Control mosquitoes and protect against their bites (use bed nets, clear standing water)."
+    ]
+  },
+  {
+    "name": "Diarrhea and Dysentery",
+    "keywords": ["loose stools", "watery stools", "dysentery", "dehydration"],
+    "symptoms": [
+      "Loose or watery stools (diarrhea).",
+      "Mucus and blood in stools (dysentery)."
+    ],
+    "signs_of_danger": [
+      "Signs of dehydration getting worse.",
+      "Vomiting everything, or vomiting continues for more than a few hours in a baby.",
+      "Child begins to have seizures.",
+      "Much blood in the stools."
+    ],
+    "treatment": [
+      "The most important treatment is to prevent or control dehydration with lots of liquids, especially Rehydration Drink.",
+      "Meet nutritional needs by giving food as soon as the person will eat.",
+      "Continue breastfeeding babies.",
+      "Specific medications for certain causes (e.g., metronidazole for amebas, ciprofloxacin for Shigella)."
+    ],
+    "prevention": [
+      "Good nutrition.",
+      "Cleanliness: use of latrines, clean water, hand washing, protecting food from flies.",
+      "Breastfeeding babies."
+    ]
+  },
+  {
+    "name": "Diphtheria",
+    "keywords": ["sore throat", "membrane in throat", "vaccine-preventable"],
+    "symptoms": [
+      "Begins like a cold with fever, sore throat, and hoarse voice.",
+      "A yellow-gray coating or membrane forms in the back of the throat, nose, and on the lips.",
+      "Swollen neck.",
+      "Very bad breath."
+    ],
+    "signs_of_danger": [
+      "The membrane can block the airway, causing choking and suffocation. This is a medical emergency."
+    ],
+    "treatment": [
+      "Get medical help quickly for a special antitoxin.",
+      "Isolate the person.",
+      "Give penicillin or erythromycin.",
+      "Gargle warm salt water and breathe hot water vapors.",
+      "If choking, try to remove the membrane."
+    ],
+    "prevention": [
+      "Prevented by the DPT vaccine."
+    ]
+  },
+  {
+    "name": "Dislocations",
+    "keywords": ["joint out of place", "dislocated shoulder", "subluxation"],
+    "symptoms": [
+      "Bone has slipped out of place at a joint.",
+      "Pain and inability to move the joint normally.",
+      "Visible deformity of the joint."
+    ],
+    "signs_of_danger": [],
+    "treatment": [
+      "Try to put the bone back into place as soon as possible.",
+      "Keep it bandaged firmly in place for about a month.",
+      "Avoid forceful use of the limb for 2-3 months to allow ligaments to heal."
+    ],
+    "prevention": [
+      "Be careful to avoid injuries that could cause dislocation."
+    ]
+  },
+  {
+    "name": "Drowning",
+    "keywords": ["suffocation", "water inhalation", "mouth-to-mouth resuscitation"],
+    "symptoms": [
+      "Breathing has stopped due to being underwater."
+    ],
+    "causes": [
+      "Suffocation in water."
+    ],
+    "signs_of_danger": [
+      "A person who stops breathing has only 4 minutes to live."
+    ],
+    "treatment": [
+      "Start mouth-to-mouth breathing AT ONCE.",
+      "If you cannot blow air in, quickly push on the belly to clear the airway.",
+      "Continue mouth-to-mouth breathing until the person breathes on their own or is declared dead."
+    ],
+    "prevention": [
+      "Supervise children near water.",
+      "Learn to swim."
+    ]
+  },
+  {
+    "name": "Earache and Ear Infections",
+    "keywords": ["otitis media", "ear infection", "pain in ear"],
+    "symptoms": [
+      "Pain in the ear, often after a cold.",
+      "Fever.",
+      "Child cries or rubs the side of their head.",
+      "Pus may be seen coming from the ear.",
+      "Sometimes causes vomiting or diarrhea in small children."
+    ],
+    "signs_of_danger": [
+      "Severe pain.",
+      "High fever.",
+      "If infection spreads, it can lead to meningitis."
+    ],
+    "treatment": [
+      "Treat early with an antibiotic like penicillin, cotrimoxazole, or ampicillin.",
+      "Give acetaminophen for pain.",
+      "Carefully clean pus out of the ear, but do not plug it.",
+      "Avoid swimming until infection is gone."
+    ],
+    "prevention": [
+      "Teach children to wipe but not blow their noses when they have a cold.",
+      "Do not let babies feed from a bottle while lying on their back.",
+      "Keep stuffy noses clear with salt water drops and suction."
+    ]
+  },
+  {
+    "name": "Epilepsy",
+    "keywords": ["seizures", "fits", "convulsions", "anti-convulsant"],
+    "symptoms": [
+      "Seizures (fits) that come hours, days, weeks, or months apart.",
+      "Can cause loss of consciousness and violent jerking movements.",
+      "Mild types may cause a person to 'blank out' or behave oddly for a moment."
+    ],
+    "causes": [
+      "Often hereditary.",
+      "Can result from brain damage at birth, high fever in infancy, or tapeworm cysts in the brain."
+    ],
+    "signs_of_danger": [
+      "A seizure that lasts more than 15 minutes (status epilepticus). This is a medical emergency."
+    ],
+    "treatment": [
+      "Medicines like phenobarbital or phenytoin can prevent seizures but do not cure the condition.",
+      "During a seizure, protect the person from injury but do not put anything in their mouth.",
+      "For a seizure lasting more than 15 minutes, give liquid diazepam in the anus."
+    ],
+    "prevention": [
+      "For those diagnosed with epilepsy, taking medication regularly is the primary prevention for seizures."
+    ]
+  },
+  {
+    "name": "Erysipelas",
+    "keywords": ["St. Anthony's fire", "skin infection", "cellulitis"],
+    "symptoms": [
+      "A very painful, acute skin infection.",
+      "Forms a hot, bright red, swollen patch with a sharp border.",
+      "Spreads rapidly, often starting on the face.",
+      "Usually causes swollen lymph nodes, fever, and chills."
+    ],
+    "causes": [
+      "Bacterial infection."
+    ],
+    "signs_of_danger": [
+      "Rapidly spreading infection.",
+      "High fever."
+    ],
+    "treatment": [
+      "Start treatment with an antibiotic like penicillin as soon as possible.",
+      "Apply hot compresses.",
+      "Take aspirin for pain."
+    ],
+    "prevention": [
+      "Good skin hygiene and prompt care of any skin breaks."
+    ]
+  },
+  {
+    "name": "Fever",
+    "keywords": ["high temperature", "pyrexia", "chills"],
+    "symptoms": [
+      "Body temperature higher than normal (above 37°C or 98.6°F)."
+    ],
+    "causes": [
+      "A sign of many different sicknesses, most commonly infections."
+    ],
+    "signs_of_danger": [
+      "Very high fever (over 40°C or 104°F) can cause seizures, especially in small children.",
+      "High fever that cannot be brought down or lasts more than 4-5 days."
+    ],
+    "treatment": [
+      "Uncover the person completely.",
+      "For high fever, pour cool water over the person and fan them.",
+      "Give plenty of cool liquids to drink.",
+      "Give aspirin or acetaminophen to lower fever.",
+      "Find and treat the cause of the fever."
+    ],
+    "prevention": [
+      "Preventing underlying infections through hygiene, sanitation, and vaccination."
+    ]
+  },
+  {
+    "name": "Gallbladder Problems",
+    "keywords": ["cholecystitis", "gallstones", "bile", "jaundice"],
+    "symptoms": [
+      "Sharp pain in the stomach at the edge of the right rib cage, sometimes reaching to the back.",
+      "Pain may come after eating fatty foods.",
+      "Vomiting, belching with a bad taste.",
+      "Fever and yellow eyes (jaundice) in severe cases."
+    ],
+    "causes": [
+      "Most common in women over 40, overweight people, and people with diabetes."
+    ],
+    "signs_of_danger": [
+      "Severe pain with fever and jaundice suggests a serious infection or blockage."
+    ],
+    "treatment": [
+      "Do not eat greasy food.",
+      "Take ibuprofen for pain.",
+      "If there is fever, take ampicillin.",
+      "In severe or chronic cases, seek medical help as surgery may be needed."
+    ],
+    "prevention": [
+      "Avoid getting overweight.",
+      "Avoid rich, sweet, and greasy food."
+    ]
+  },
+  {
+    "name": "Gangrene (Gas Gangrene)",
+    "keywords": ["wound infection", "dead tissue", "amputation"],
+    "symptoms": [
+      "A foul-smelling gray or brown liquid forming in a wound.",
+      "Dark blisters and air bubbles in the flesh around the wound.",
+      "Infection begins 6 hours to 3 days after injury and spreads fast."
+    ],
+    "causes": [
+      "A very dangerous bacterial infection of a wound."
+    ],
+    "signs_of_danger": [
+      "This condition is a medical emergency and causes death in a few days without treatment."
+    ],
+    "treatment": [
+      "Get medical help immediately.",
+      "Open up the wound as wide as possible and wash it out.",
+      "Clean out all dead and damaged flesh.",
+      "Flood the wound with hydrogen peroxide every 2 hours if possible.",
+      "Inject high doses of penicillin.",
+      "Leave the wound uncovered."
+    ],
+    "prevention": [
+      "Thoroughly clean all deep or dirty wounds immediately after injury."
+    ]
+  },
+  {
+    "name": "Genital Herpes",
+    "keywords": ["herpes simplex virus", "STI", "blisters", "sores"],
+    "symptoms": [
+      "One or more very small, painful blisters on the genitals, anus, buttocks, or thighs.",
+      "Blisters burst and form small, open sores that are very painful.",
+      "Sores dry up and become scabs.",
+      "May last for 3 weeks or more, with fever, aches, chills, and swollen lymph nodes."
+    ],
+    "causes": [
+      "Virus spread by sexual contact."
+    ],
+    "signs_of_danger": [
+      "If a woman has herpes sores when she gives birth, her baby can get the infection, which is very dangerous for the baby."
+    ],
+    "treatment": [
+      "No cure, but can be controlled with acyclovir to make it less painful and keep it from spreading.",
+      "Keep the area clean.",
+      "Do not have sex until all sores are healed."
+    ],
+    "prevention": [
+      "Use a condom during sex.",
+      "Avoid sex when sores are present."
+    ]
+  },
+  {
+    "name": "Genital Warts",
+    "keywords": ["condylomata", "HPV", "STI", "venereal warts"],
+    "symptoms": [
+      "Small, hard, whitish or brownish skin growths with a rough surface on the genitals or anus."
+    ],
+    "causes": [
+      "Virus (Human Papillomavirus - HPV) spread by sexual contact."
+    ],
+    "signs_of_danger": [
+      "Certain types of HPV can cause cancer of the cervix in women."
+    ],
+    "treatment": [
+      "Apply trichloroacetic acid or podophyllin to each wart.",
+      "Several weekly treatments are usually needed."
+    ],
+    "prevention": [
+      "Use a condom during sex.",
+      "There is a vaccine to prevent some types of HPV."
+    ]
+  },
+  {
+    "name": "Giardia",
+    "keywords": ["giardiasis", "parasite", "diarrhea", "beaver fever"],
+    "symptoms": [
+      "Yellow, bad-smelling diarrhea that is frothy (full of bubbles) but without blood or mucus.",
+      "Swollen belly with gas, mild intestinal cramps.",
+      "Farting and burping a lot, with burps tasting like sulfur.",
+      "Usually no fever."
+    ],
+    "causes": [
+      "Microscopic parasite in the gut, often from contaminated water."
+    ],
+    "signs_of_danger": [],
+    "treatment": [
+      "Good nutrition and rest. Severe cases can be treated with metronidazole or quinacrine."
+    ],
+    "prevention": [
+      "Drink only boiled, filtered, or purified water."
+    ]
+  },
+  {
+    "name": "Goiter",
+    "keywords": ["thyroid", "iodine deficiency", "swollen neck"],
+    "symptoms": [
+      "A swelling or big lump on the throat from an abnormal growth of the thyroid gland."
+    ],
+    "causes": [
+      "Lack of iodine in the diet."
+    ],
+    "signs_of_danger": [
+      "Lack of iodine in a pregnant woman can cause her baby to be born mentally slow and/or deaf (cretinism)."
+    ],
+    "treatment": [
+      "Use iodized salt.",
+      "If iodized salt is not available, take iodine oil or drink water with a drop of povidone iodine.",
+      "Eat seafood or seaweed."
+    ],
+    "prevention": [
+      "Everyone living in areas where goiter is common should use iodized salt."
+    ]
+  },
+  {
+    "name": "Gonorrhea (Clap, VD, the Drip)",
+    "keywords": ["STI", "venereal disease", "the drip", "discharge"],
+    "symptoms": [
+      "Often no signs, especially in women.",
+      "Pain or burning during urination.",
+      "In men: drops of pus from the penis, painful swelling of the testicles.",
+      "In women: yellow or green discharge, pain in the lower belly (pelvic inflammatory disease), fever, pain during sex."
+    ],
+    "causes": [
+      "Sexually transmitted infection (STI)."
+    ],
+    "signs_of_danger": [
+      "Can cause sterility (inability to have a baby) in both men and women if not treated.",
+      "Can cause blindness in babies if the mother is infected and not treated before giving birth."
+    ],
+    "treatment": [
+      "Treat for both gonorrhea and chlamydia. Use ceftriaxone, cefixime, or spectinomycin for gonorrhea.",
+      "All sexual partners must be treated."
+    ],
+    "prevention": [
+      "Practice safer sex by using condoms.",
+      "Have sex with only one faithful partner."
+    ]
+  },
+  {
+    "name": "Guinea Worm",
+    "keywords": ["dracunculiasis", "parasitic worm", "waterborne"],
+    "symptoms": [
+      "A painful swelling develops on the ankle, leg, or elsewhere.",
+      "A blister forms and bursts, revealing the end of a white, thread-like worm."
+    ],
+    "causes": [
+      "A long, thin worm that lives under the skin, contracted by drinking water contaminated with water-fleas carrying worm eggs."
+    ],
+    "signs_of_danger": [
+      "If the sore gets dirty and infected, the pain and swelling can spread, making walking impossible.",
+      "Risk of tetanus."
+    ],
+    "treatment": [
+      "Keep the sore clean.",
+      "Slowly pull the worm out a little more each day by rolling it on a thin stick. Do not break it.",
+      "Give metronidazole or thiabendazole to reduce discomfort.",
+      "Get an anti-tetanus vaccination."
+    ],
+    "prevention": [
+      "Drink only safe water (tap water, or water filtered through a clean cloth).",
+      "Do not let anyone with a Guinea worm sore wade into a water source."
+    ]
+  },
+  {
+    "name": "Hay Fever (Allergic Rhinitis)",
+    "keywords": ["allergy", "runny nose", "itchy eyes", "pollen"],
+    "symptoms": [
+      "Runny nose and itchy eyes."
+    ],
+    "causes": [
+      "Allergic reaction to something in the air like dust, feathers, pollen, or mold."
+    ],
+    "signs_of_danger": [],
+    "treatment": [
+      "Use an antihistamine such as chlorpheniramine or dimenhydrinate.",
+      "Avoid the things that cause the reaction."
+    ],
+    "prevention": [
+      "Identify and avoid allergens."
+    ]
+  },
+  {
+    "name": "Headaches and Migraines",
+    "keywords": ["head pain", "migraine", "throbbing"],
+    "symptoms": [
+      "Pain in the head (simple headache).",
+      "Severe, throbbing headache, often on one side of the head, with blurred vision, seeing strange spots of light, or numbness of a hand or foot (migraine)."
+    ],
+    "causes": [
+      "Fever, chronic illness, poor nutrition, stress, unknown (migraines)."
+    ],
+    "signs_of_danger": [
+      "Severe headache with fever and stiff neck could be meningitis."
+    ],
+    "treatment": [
+      "For simple headache: rest, aspirin, hot cloth on the back of the neck, massage.",
+      "For migraine: at the first sign, take 2 aspirins with strong coffee or tea, lie down in a dark, quiet place. For severe migraines, use aspirin with codeine or ergotamine with caffeine."
+    ],
+    "prevention": [
+      "For recurrent headaches, ensure good nutrition and enough sleep.",
+      "Migraine sufferers may need to identify and avoid triggers."
+    ]
+  },
+  {
+    "name": "Heart Trouble",
+    "keywords": ["heart disease", "angina", "heart attack", "cardiac"],
+    "symptoms": [
+      "Anxiety and difficulty breathing after exercise.",
+      "Asthma-like attacks that get worse when lying down.",
+      "Sudden, painful attacks in the chest, left shoulder, or arm that occur when exercising and go away after resting (angina pectoris).",
+      "A sharp pain like a great weight crushing the chest that does not go away with rest (heart attack).",
+      "A rapid, weak, or irregular pulse.",
+      "Swelling of the feet, worse in the afternoons.",
+      "Shortness of breath without exercise, unexplained tiredness, weakness, dizziness.",
+      "In women: a feeling like indigestion, nausea, clamminess, spasms, jaw pain (heart attack)."
+    ],
+    "causes": [
+      "More frequent in older people, especially those who are fat, who smoke, or who have high blood pressure."
+    ],
+    "signs_of_danger": [
+      "A heart attack is a medical emergency. Signs include severe chest pain that does not go away with rest, and signs of shock."
+    ],
+    "treatment": [
+      "Seek medical help for specific medications.",
+      "Avoid strenuous work.",
+      "Avoid greasy food, smoking, and alcohol.",
+      "If overweight, lose weight.",
+      "Eat food with little or no salt.",
+      "Taking one aspirin tablet a day may help prevent a heart attack or a stroke.",
+      "For angina or heart attack, rest very quietly in a cool place."
+    ],
+    "prevention": [
+      "Eat a healthy diet, low in fat and salt.",
+      "Do not smoke.",
+      "Do not drink a lot of alcohol.",
+      "Keep physically active.",
+      "Control high blood pressure.",
+      "Avoid becoming overweight."
+    ]
+  },
+  {
+    "name": "Heat Cramps",
+    "keywords": ["cramps", "heat illness", "dehydration"],
+    "symptoms": [
+      "Painful cramps in legs, arms, or stomach after working hard and sweating a lot in hot weather."
+    ],
+    "causes": [
+      "Loss of salt through sweat."
+    ],
+    "signs_of_danger": [],
+    "treatment": [
+      "Drink salted water (1 teaspoon salt in 1 liter of water).",
+      "Rest in a cool place and massage the painful areas."
+    ],
+    "prevention": [
+      "Drink plenty of fluids and replace salt lost through sweat when working in the heat."
+    ]
+  },
+  {
+    "name": "Heat Exhaustion",
+    "keywords": ["heat illness", "weakness", "fainting"],
+    "symptoms": [
+      "Very pale, weak, and nauseous.",
+      "May feel faint.",
+      "Cool and moist skin.",
+      "Rapid and weak pulse.",
+      "Body temperature may rise but is usually normal."
+    ],
+    "causes": [
+      "Working and sweating a lot in hot weather."
+    ],
+    "signs_of_danger": [],
+    "treatment": [
+      "Lie down in a cool place, raise feet, and rub legs.",
+      "Drink salt water (1/2 teaspoon of salt in a liter of water)."
+    ],
+    "prevention": [
+      "Avoid overexertion in hot weather.",
+      "Drink plenty of fluids and replace salt."
+    ]
+  },
+  {
+    "name": "Heat Stroke",
+    "keywords": ["heat illness", "high fever", "unconsciousness"],
+    "symptoms": [
+      "Red, very hot, and dry skin (no sweat).",
+      "Very high fever, sometimes more than 42°C.",
+      "Rapid heartbeat.",
+      "Often unconscious."
+    ],
+    "causes": [
+      "Body overheating in hot weather, especially in older, fat, or alcoholic people."
+    ],
+    "signs_of_danger": [
+      "This is a life-threatening medical emergency."
+    ],
+    "treatment": [
+      "Lower the body temperature immediately.",
+      "Put the person in the shade.",
+      "Soak with cold water (ice water if possible) and fan.",
+      "Seek medical help."
+    ],
+    "prevention": [
+      "Stay in cool places during extreme heat.",
+      "Drink plenty of water."
+    ]
+  },
+  {
+    "name": "Hemorrhoids (Piles)",
+    "keywords": ["piles", "varicose veins", "anal itching", "rectal bleeding"],
+    "symptoms": [
+      "Swollen, twisted, and often painful veins of the anus or rectum, which feel like little lumps or balls."
+    ],
+    "causes": [
+      "Common during pregnancy and with constipation."
+    ],
+    "signs_of_danger": [
+      "Heavy bleeding from a hemorrhoid."
+    ],
+    "treatment": [
+      "Dab with bitter plant juices (witch hazel, cactus).",
+      "Use hemorrhoid suppositories.",
+      "Sit in a warm bath.",
+      "Eat plenty of fruit and food with a lot of fiber.",
+      "For bleeding hemorrhoids, press with a clean cloth. If bleeding continues, a clot may need to be removed."
+    ],
+    "prevention": [
+      "Avoid constipation by eating a high-fiber diet and drinking plenty of water."
+    ]
+  },
+  {
+    "name": "Hepatitis",
+    "keywords": ["liver infection", "jaundice", "fatigue"],
+    "symptoms": [
+      "Feels tired, does not want to eat or smoke.",
+      "Pain on the right side near the liver.",
+      "Pain in muscles or joints.",
+      "May have a fever.",
+      "After a few days, the eyes and skin turn yellow (jaundice).",
+      "Vomiting may be caused by sight or smell of food.",
+      "Urine may turn dark like Coca Cola, and stools may become whitish, or there may be diarrhea."
+    ],
+    "causes": [
+      "Usually a virus, but also bacteria, alcohol, or chemical poisoning."
+    ],
+    "signs_of_danger": [],
+    "treatment": [
+      "Antibiotics do not work. Do not use medicines.",
+      "Rest and drink lots of liquids.",
+      "Eat a balanced meal when able to eat, but not a lot of protein or fatty foods.",
+      "Do not drink any alcohol for at least 6 months."
+    ],
+    "prevention": [
+      "Hepatitis A is prevented by good hygiene and sanitation (clean food and water).",
+      "Hepatitis B and C are prevented by avoiding contact with infected blood (safer sex, sterile needles).",
+      "Vaccines are available for Hepatitis A and B."
+    ]
+  },
+  {
+    "name": "Hernia (Rupture)",
+    "keywords": ["rupture", "inguinal hernia", "umbilical hernia"],
+    "symptoms": [
+      "A lump under the skin, usually in the groin or at the navel, caused by a loop of gut pushing through a tear in the belly muscles."
+    ],
+    "causes": [
+      "Lifting something heavy, straining (as during childbirth), or being born with one."
+    ],
+    "signs_of_danger": [
+      "If a hernia suddenly becomes very painful, causes vomiting, and the person cannot have a bowel movement, it may be 'strangulated'. This is a surgical emergency."
+    ],
+    "treatment": [
+      "Avoid lifting heavy objects.",
+      "Make a truss to hold the hernia in.",
+      "If a hernia suddenly becomes large or painful and won't go back in, seek medical help.",
+      "For a strangulated hernia, surgery is necessary. Seek medical help fast."
+    ],
+    "prevention": [
+      "Lift heavy objects correctly, using the legs, not the back."
+    ]
+  },
+  {
+    "name": "Hives (Welts)",
+    "keywords": ["urticaria", "welts", "itchy rash", "allergy"],
+    "symptoms": [
+      "Thick, raised spots or patches that look like bee stings and itch like mad.",
+      "May come and go rapidly or move from one spot to another."
+    ],
+    "causes": [
+      "Allergic reaction to things touched, eaten, injected, or breathed in."
+    ],
+    "signs_of_danger": [],
+    "treatment": [
+      "Bathe in cool water or use cool compresses.",
+      "Compresses of cool oatmeal water also calm itching.",
+      "Take an antihistamine like chlorpheniramine."
+    ],
+    "prevention": [
+      "Identify and avoid the cause of the allergic reaction."
+    ]
+  },
+  {
+    "name": "Hookworm",
+    "keywords": ["uncinaria", "anemia", "parasite", "worm"],
+    "symptoms": [
+      "Red marks and itching on the feet where the worms enter.",
+      "A dry cough a few days later.",
+      "Diarrhea or a stomach-ache.",
+      "Weakness and severe anemia."
+    ],
+    "causes": [
+      "A type of worm that enters the body through the soles of the feet."
+    ],
+    "signs_of_danger": [
+      "Severe anemia in children."
+    ],
+    "treatment": [
+      "Use mebendazole, albendazole, or pyrantel.",
+      "Treat anemia by eating foods rich in iron and if necessary by taking iron pills."
+    ],
+    "prevention": [
+      "Build and use latrines.",
+      "Do not let children go barefoot."
+    ]
+  },
+  {
+    "name": "Hypothermia (Loss of Body Heat)",
+    "keywords": ["low body temperature", "cold exposure", "shivering"],
+    "symptoms": [
+      "Uncontrolled shivering.",
+      "Slow or unclear speech.",
+      "Stumbles when walking.",
+      "Cannot think clearly.",
+      "Feels very tired."
+    ],
+    "causes": [
+      "Losing body heat in cold, wet, or windy weather without enough warm clothes."
+    ],
+    "signs_of_danger": [
+      "If the person stops shivering but is still confused or unconscious, their condition is very serious."
+    ],
+    "treatment": [
+      "Get the person to a dry place protected from the wind.",
+      "Remove wet clothes and cover with dry clothing and blankets.",
+      "Cover head, feet, and hands.",
+      "Put warm stones wrapped in cloth next to the chest, back, and groin.",
+      "Give sweet things to eat and drink."
+    ],
+    "prevention": [
+      "Dress warmly in cold weather, in layers.",
+      "Stay dry."
+    ]
+  },
+  {
+    "name": "Impetigo",
+    "keywords": ["skin infection", "crusted sores", "contagious"],
+    "symptoms": [
+      "Rapidly spreading sores with shiny, yellow crusts.",
+      "Often occurs on children’s faces, especially around the mouth."
+    ],
+    "causes": [
+      "Bacterial infection."
+    ],
+    "signs_of_danger": [],
+    "treatment": [
+      "Wash the affected part with soap and cooled, boiled water 3 to 4 times each day, gently soaking off the crusts.",
+      "After each washing, paint the sores with gentian violet or spread on an antibiotic cream.",
+      "If the infection is spread over a large area or causes fever, give cloxacillin or dicloxacillin."
+    ],
+    "prevention": [
+      "Good personal hygiene, daily bathing.",
+      "Treat scabies and insect bites promptly to prevent scratching and secondary infection.",
+      "Do not let a child with impetigo play or sleep with other children."
+    ]
+  },
+  {
+    "name": "Infected Wounds",
+    "keywords": ["wound infection", "pus", "redness", "swelling"],
+    "symptoms": [
+      "The wound becomes red, swollen, hot, and painful.",
+      "It has pus or begins to smell bad."
+    ],
+    "signs_of_danger": [
+      "The infection is spreading if it causes fever, a red line extending from the wound, or swollen and tender lymph nodes."
+    ],
+    "treatment": [
+      "Put hot compresses over the wound for 20 minutes 4 times a day.",
+      "Keep the infected part at rest and elevated.",
+      "If the infection is severe or if the person has not been vaccinated against tetanus, use an antibiotic like penicillin."
+    ],
+    "prevention": [
+      "Thoroughly clean all wounds with soap and boiled water immediately after injury."
+    ]
+  },
+  {
+    "name": "Iritis (Inflammation of the Iris)",
+    "keywords": ["eye pain", "red eye", "blurred vision"],
+    "symptoms": [
+      "Usually happens in one eye only.",
+      "Pain may begin suddenly or gradually.",
+      "The eye waters a lot.",
+      "It hurts more in bright light.",
+      "The eyeball hurts when you touch it.",
+      "The pupil is small and often irregular.",
+      "There is redness around the iris.",
+      "Vision is usually blurred."
+    ],
+    "causes": [
+      "Inflammation of the iris."
+    ],
+    "signs_of_danger": [
+      "This is an emergency. Can cause permanent vision damage if not treated promptly."
+    ],
+    "treatment": [
+      "Get medical help immediately. Antibiotic ointments do not help."
+    ],
+    "prevention": []
+  },
+  {
+    "name": "Leishmaniasis",
+    "keywords": ["tropical sore", "Delhi boil", "sand fly"],
+    "symptoms": [
+      "2 to 8 weeks after being bitten by a sand fly, a swelling appears.",
+      "The swelling becomes an open sore, usually with pus.",
+      "Sores become infected with bacteria very easily."
+    ],
+    "causes": [
+      "Infection carried by a small sand fly."
+    ],
+    "signs_of_danger": [
+      "Visceral leishmaniasis (kala-azar) is a form that affects internal organs and is very difficult to treat."
+    ],
+    "treatment": [
+      "Clean the sore with cool, boiled water.",
+      "Apply a hot, moist cloth to the sore for 10 to 15 minutes, 2 times a day for 10 days (heat treatment).",
+      "If the sore looks infected, give antibiotics."
+    ],
+    "prevention": [
+      "Protect against sand fly bites."
+    ]
+  },
+  {
+    "name": "Leprosy (Hansen’s Disease)",
+    "keywords": ["Hansen's disease", "numb skin patch", "deformity"],
+    "symptoms": [
+      "A slowly growing patch on the skin that does not itch or hurt, and where feeling becomes reduced or absent.",
+      "Tingling, numbness, or loss of feeling in hands or feet.",
+      "Slight weakness or deformities in the hands and feet.",
+      "Swollen nerves that form thick cords under the skin.",
+      "Advanced signs may include burns and scars where feeling has been lost, painless sores, paralysis and deformity, blindness, loss of eyebrows, and lumpy or deformed nose and ears."
+    ],
+    "causes": [
+      "A mildly infectious disease that develops slowly over many years."
+    ],
+    "signs_of_danger": [
+      "Progressive loss of feeling can lead to severe, preventable injuries and deformities."
+    ],
+    "treatment": [
+      "Curable with a combination of medicines (dapsone, rifampicin, clofazimine) that must be taken for years."
+    ],
+    "prevention": [
+      "Check children in areas where leprosy is common every 6-12 months for skin patches with reduced feeling.",
+      "Early treatment prevents disability and spread of the disease."
+    ]
+  },
+  {
+    "name": "Lice",
+    "keywords": ["pediculosis", "head lice", "body lice", "pubic lice", "crabs", "nits"],
+    "symptoms": [
+      "Itching.",
+      "Sometimes skin infections and swollen lymph nodes from scratching."
+    ],
+    "causes": [
+      "Infestation with head lice, body lice, or pubic lice."
+    ],
+    "signs_of_danger": [],
+    "treatment": [
+      "Scrub the hair well with regular soap or shampoo for 10 minutes, rinse, and comb thoroughly with a fine-tooth comb to remove all lice and their eggs (nits). Repeat every day for 2 weeks.",
+      "Use medicated shampoos with pyrethrins or permethrin if regular shampoos do not work.",
+      "Remove all nits by combing after rubbing olive oil or soaking hair with warm vinegar water.",
+      "For body lice, soak in a hot bath every day for 10 days and keep clothing and bedding clean."
+    ],
+    "prevention": [
+      "Good personal hygiene.",
+      "Wash clothing and bedding often and hang in the sun.",
+      "Do not share combs or clothing."
+    ]
+  },
+  {
+    "name": "Malaria",
+    "keywords": ["mosquito-borne", "fever", "chills", "anemia"],
+    "symptoms": [
+      "A typical attack has 3 stages: chills, then fever, then sweating.",
+      "Fevers may come every 2 or 3 days, or daily in the beginning.",
+      "Chronic malaria often causes a large spleen and anemia."
+    ],
+    "causes": [
+      "An infection of the blood spread by mosquitoes."
+    ],
+    "signs_of_danger": [
+      "Cerebral malaria: seizures followed by unconsciousness. This is a medical emergency."
+    ],
+    "treatment": [
+      "Take the malaria medicine known to work best in your area (Artemisinin-based Combination Therapy or ACT is often recommended).",
+      "If a person has signs of cerebral malaria, inject quinine or artesunate at once."
+    ],
+    "prevention": [
+      "Avoid mosquito bites by sleeping under a bed net treated with insecticide.",
+      "Clear standing water where mosquitoes breed.",
+      "Get prompt treatment for any suspected case of malaria to reduce spread.",
+      "In some cases, taking preventive anti-malaria medicines is recommended."
+    ]
+  },
+  {
+    "name": "Malnutrition",
+    "keywords": ["undernutrition", "starvation", "marasmus", "kwashiorkor"],
+    "symptoms": [
+      "Failure of a child to grow or gain weight normally.",
+      "Slowness in walking, talking, or thinking.",
+      "Big bellies, thin arms and legs.",
+      "Frequent, severe, and long-lasting illnesses.",
+      "Lack of energy, child is sad and does not play.",
+      "Swelling of feet, face, and hands, often with sores or marks on the skin.",
+      "Thinning, straightening, or loss of hair, or loss of its color and shine.",
+      "Poor vision at night, dryness of eyes, blindness.",
+      "In anyone: weakness and tiredness, loss of appetite, anemia, sores in the corners of the mouth, painful or sore tongue, ‘burning’ or numbness of the feet."
+    ],
+    "causes": [
+      "Not eating enough food of any kind.",
+      "Not eating the right kinds of foods."
+    ],
+    "signs_of_danger": [
+      "Severe malnutrition (marasmus or kwashiorkor) greatly increases the risk of death from common childhood illnesses like diarrhea and measles."
+    ],
+    "treatment": [
+      "Eat enough nutritious food.",
+      "For children, feed them more often (at least 5 times a day).",
+      "Add high-energy 'helper foods' like oils and sugar or honey to the main food.",
+      "Add body-building foods (proteins) and protective foods (fruits and vegetables)."
+    ],
+    "prevention": [
+      "Breastfeed babies for as long as possible.",
+      "After 6 months, give babies a variety of nutritious foods in addition to breast milk.",
+      "Ensure the whole family eats a balanced diet."
+    ]
+  },
+  {
+    "name": "Measles",
+    "keywords": ["rubeola", "rash", "fever", "cough", "vaccine-preventable"],
+    "symptoms": [
+      "Begins with signs of a cold—fever, runny nose, red sore eyes, and cough.",
+      "The child becomes increasingly ill.",
+      "Sore mouth and diarrhea.",
+      "Tiny white spots like salt grains appear in the mouth (Koplik's spots).",
+      "A day or two later, a rash appears—first behind the ears and on the neck, then on the face and body, and last on the arms and legs.",
+      "The rash lasts about 5 days."
+    ],
+    "causes": [
+      "A severe virus infection."
+    ],
+    "signs_of_danger": [
+      "Especially dangerous in children who are poorly nourished or have tuberculosis.",
+      "Complications can include pneumonia, meningitis, and severe ear infections.",
+      "Can cause blindness due to vitamin A deficiency."
+    ],
+    "treatment": [
+      "The child should stay in bed, drink lots of liquids, and be given nutritious food.",
+      "Give vitamin A to prevent eye damage.",
+      "For fever and discomfort, give acetaminophen.",
+      "If complications like earache or pneumonia develop, give an antibiotic and get medical help."
+    ],
+    "prevention": [
+      "Prevented by vaccination.",
+      "Ensure all children are well-nourished.",
+      "Keep children with measles away from other children."
+    ]
+  },
+  {
+    "name": "Meningitis",
+    "keywords": ["brain infection", "stiff neck", "seizures", "spinal meningitis"],
+    "symptoms": [
+      "Fever.",
+      "Severe headache.",
+      "Stiff neck (child lies with head and neck bent back).",
+      "The back is too stiff to put the head between the knees.",
+      "In babies under a year old, the fontanel (soft spot on top of the head) bulges out.",
+      "Vomiting is common.",
+      "Seizures or strange movements.",
+      "The child often gets worse and worse and may lose consciousness."
+    ],
+    "causes": [
+      "A very serious infection of the lining of the brain, often a complication of another illness."
+    ],
+    "signs_of_danger": [
+      "This is a medical emergency. It can cause brain damage or death very quickly."
+    ],
+    "treatment": [
+      "Get medical help fast—every minute counts! If possible take the person to a hospital.",
+      "Inject ampicillin every 6 hours. If possible, also give chloramphenicol.",
+      "If there is high fever, lower it with wet cloths and acetaminophen.",
+      "If you suspect tubercular meningitis, inject streptomycin.",
+      "If you know the meningitis came from malaria, give an injection of artesunate or quinine at once."
+    ],
+    "prevention": [
+      "BCG vaccination at birth helps prevent tubercular meningitis.",
+      "Hib vaccine prevents a common type of bacterial meningitis.",
+      "Prompt treatment of ear infections and other serious illnesses."
+    ]
+  },
+  {
+    "name": "Miscarriage (Spontaneous Abortion)",
+    "keywords": ["spontaneous abortion", "pregnancy loss", "bleeding"],
+    "symptoms": [
+      "Heavy bleeding with big blood clots and painful cramps after a missed period."
+    ],
+    "causes": [
+      "Often the baby is imperfectly formed, and this is nature’s way of taking care of the problem."
+    ],
+    "signs_of_danger": [
+      "Extreme bleeding (hemorrhage).",
+      "Signs of infection (fever, foul-smelling discharge)."
+    ],
+    "treatment": [
+      "Rest and take ibuprofen or codeine for pain.",
+      "If heavy bleeding continues for many days, get medical help for a possible D&C (dilatation and curettage).",
+      "If bleeding is extreme, treat as for hemorrhage after childbirth.",
+      "If signs of infection develop, treat as for Childbirth Fever."
+    ],
+    "prevention": [
+      "Most miscarriages cannot be prevented.",
+      "Good nutrition during pregnancy can reduce the risk."
+    ]
+  },
+  {
+    "name": "Mumps",
+    "keywords": ["parotitis", "swollen glands", "vaccine-preventable"],
+    "symptoms": [
+      "Fever and pain on opening the mouth or eating.",
+      "In 2 days, a soft swelling appears below the ears at the angle of the jaw."
+    ],
+    "causes": [
+      "Virus infection."
+    ],
+    "signs_of_danger": [
+      "Complications are more common in adults and can include painful swelling of the testicles in men, or meningitis."
+    ],
+    "treatment": [
+      "The swelling goes away by itself in about 10 days, without need for medicine.",
+      "Acetaminophen or ibuprofen can be taken for pain and fever.",
+      "Feed the child soft, nourishing foods and keep his mouth clean."
+    ],
+    "prevention": [
+      "Prevented by the MMR (Measles, Mumps, Rubella) vaccine."
+    ]
+  },
+  {
+    "name": "Night Blindness and Xerophthalmia",
+    "keywords": ["vitamin A deficiency", "dry eyes", "vision loss"],
+    "symptoms": [
+      "The person cannot see as well in the dark as other people can (night blindness).",
+      "Later, develops dry eyes (xerophthalmia). The white of the eyes loses its shine and begins to wrinkle.",
+      "Patches of little gray bubbles (Bitot’s spots) may form in the eyes.",
+      "As the disease gets worse, the cornea also becomes dry and dull, and may develop little pits.",
+      "Then the cornea may quickly grow soft, bulge, or even burst."
+    ],
+    "causes": [
+      "Not eating enough foods with vitamin A."
+    ],
+    "signs_of_danger": [
+      "A dull, pitted, or bulging cornea is a sign of impending blindness. This is a medical emergency."
+    ],
+    "treatment": [
+      "Eat foods rich in vitamin A (dark green leafy vegetables, and yellow or orange fruits and vegetables, whole milk, eggs, and liver).",
+      "Give vitamin A capsules.",
+      "If the condition is severe, get medical help."
+    ],
+    "prevention": [
+      "Breastfeed babies.",
+      "Give children foods rich in vitamin A.",
+      "In areas where deficiency is common, give high-dose vitamin A capsules every 6 months."
+    ]
+  },
+  {
+    "name": "Pellagra",
+    "keywords": ["malnutrition", "niacin deficiency", "dermatitis"],
+    "symptoms": [
+      "The skin is dry and cracked; it peels like sunburn on the parts where the sun hits it (neck, arms, legs).",
+      "In malnourished children, the skin of the legs may have dark marks, like bruises, or even peeling sores.",
+      "May also affect the digestive and nervous systems."
+    ],
+    "causes": [
+      "A form of malnutrition common in places where people eat a lot of maize (corn) and not enough other nutritious foods."
+    ],
+    "signs_of_danger": [],
+    "treatment": [
+      "Eating nutritious foods cures pellagra. Eat beans, lentils, groundnuts, or some chicken, fish, eggs, meat, or cheese.",
+      "Use whole wheat instead of maize (corn).",
+      "For severe pellagra, take vitamin supplements high in the B vitamins, especially niacin."
+    ],
+    "prevention": [
+      "Eat a varied and nutritious diet."
+    ]
+  },
+  {
+    "name": "Peritonitis",
+    "keywords": ["acute abdomen", "belly infection", "burst appendix"],
+    "symptoms": [
+      "The belly becomes hard like a board.",
+      "The person feels great pain when his belly is touched even lightly."
+    ],
+    "causes": [
+      "An acute, serious infection of the lining of the cavity that holds the gut, often resulting from a burst appendix or torn gut."
+    ],
+    "signs_of_danger": [
+      "This is a life-threatening medical emergency."
+    ],
+    "treatment": [
+      "Get medical help immediately.",
+      "On the way to a medical center, give the medicines indicated on page 93 (ampicillin, metronidazole, ciprofloxacin)."
+    ],
+    "prevention": [
+      "Prompt treatment of appendicitis or deep gut wounds."
+    ]
+  },
+  {
+    "name": "Piles (Hemorrhoids)",
+    "keywords": ["hemorrhoids", "varicose veins", "anal itching", "rectal bleeding"],
+    "symptoms": [
+      "Swollen, twisted, and often painful veins of the anus or rectum, which feel like little lumps or balls."
+    ],
+    "causes": [
+      "Common during pregnancy and with constipation."
+    ],
+    "signs_of_danger": [
+      "Heavy bleeding from a hemorrhoid."
+    ],
+    "treatment": [
+      "Dab with bitter plant juices (witch hazel, cactus).",
+      "Use hemorrhoid suppositories.",
+      "Sit in a warm bath.",
+      "Eat plenty of fruit and food with a lot of fiber.",
+      "For bleeding hemorrhoids, press with a clean cloth. If bleeding continues, a clot may need to be removed."
+    ],
+    "prevention": [
+      "Avoid constipation by eating a high-fiber diet and drinking plenty of water."
+    ]
+  },
+  {
+    "name": "Pink Eye (Conjunctivitis)",
+    "keywords": ["conjunctivitis", "red eye", "eye infection"],
+    "symptoms": [
+      "Redness, pus, and mild ‘burning’ in one or both eyes.",
+      "Lids often stick together after sleep."
+    ],
+    "causes": [
+      "Bacterial or viral infection."
+    ],
+    "signs_of_danger": [],
+    "treatment": [
+      "Clean pus from the eyes with a clean cloth moistened with boiled water.",
+      "Put antibiotic eye ointment inside the eye."
+    ],
+    "prevention": [
+      "Very contagious. Do not let a child with pink eye play or sleep with others, or use the same towel.",
+      "Wash hands after touching eyes."
+    ]
+  },
+  {
+    "name": "Pinworm (Threadworm)",
+    "keywords": ["threadworm", "seatworm", "Enterobius", "anal itching"],
+    "symptoms": [
+      "Itching around the anus, especially at night."
+    ],
+    "causes": [
+      "A type of worm that lays eggs just outside the anus."
+    ],
+    "signs_of_danger": [],
+    "treatment": [
+      "Wear tight diapers or pants while sleeping to prevent scratching.",
+      "Wash hands and buttocks upon waking and after bowel movements.",
+      "Cut fingernails very short.",
+      "Change clothes and bathe often.",
+      "Put Vaseline in and around the anus at bedtime to stop itching.",
+      "Give mebendazole or piperazine worm medicine.",
+      "Treat the whole family at the same time."
+    ],
+    "prevention": [
+      "Good personal hygiene is the best prevention."
+    ]
+  },
+  {
+    "name": "Pneumonia",
+    "keywords": ["lung infection", "chest infection", "breathing difficulty"],
+    "symptoms": [
+      "Sudden chills and then high fever.",
+      "Rapid, shallow breathing, with little grunts or sometimes wheezing.",
+      "Nostrils may spread with each breath.",
+      "Cough (often with yellow, greenish, rust colored, or slightly bloody mucus).",
+      "Chest pain (sometimes).",
+      "The person looks very ill.",
+      "Cold sores often appear on the face or lips."
+    ],
+    "causes": [
+      "Acute infection of the lungs, often following another respiratory illness."
+    ],
+    "signs_of_danger": [
+      "Severe difficulty breathing.",
+      "High fever that doesn't come down.",
+      "A person with pneumonia can become very ill very quickly."
+    ],
+    "treatment": [
+      "Antibiotics can make the difference between life and death. Give penicillin, cotrimoxazole, or erythromycin. For children under 6, amoxicillin is usually best.",
+      "Give aspirin or acetaminophen to lower fever and lessen pain.",
+      "Give plenty of liquids.",
+      "Ease the cough by having the person drink water and breathe hot water vapors."
+    ],
+    "prevention": [
+      "Hib vaccine prevents a common type of bacterial pneumonia in children.",
+      "Prompt treatment of colds and flu, especially in the very young, old, or chronically ill.",
+      "Good nutrition."
+    ]
+  },
+  {
+    "name": "Poisoning",
+    "keywords": ["ingestion", "toxin", "antidote"],
+    "symptoms": [
+      "Varies depending on the poison. May include vomiting, abdominal pain, seizures, loss of consciousness."
+    ],
+    "causes": [
+      "Swallowing poisonous substances like rat poison, insecticides, medicine, bleach, kerosene, etc."
+    ],
+    "signs_of_danger": [
+      "Loss of consciousness.",
+      "Stopped breathing.",
+      "Swallowing a corrosive substance (acid, lye) or a petroleum product (kerosene, gasoline)."
+    ],
+    "treatment": [
+      "If the person is unconscious, lay him on his side. If he stops breathing, give mouth-to-mouth breathing.",
+      "If the person is awake, give plenty of water or milk to drink to dilute the poison.",
+      "If it is safe to do so, make the person vomit.",
+      "Give activated charcoal to absorb the poison.",
+      "Seek medical help if poisoning is severe."
+    ],
+    "prevention": [
+      "Keep all poisons and medicines out of the reach of children.",
+      "Never store poisons in food or drink containers."
+    ]
+  },
+  {
+    "name": "Polio (Infantile Paralysis)",
+    "keywords": ["poliomyelitis", "paralysis", "vaccine-preventable"],
+    "symptoms": [
+      "Often begins with fever, vomiting, diarrhea, and sore muscles.",
+      "Sometimes a part of the body becomes weak or paralyzed, most often one or both legs.",
+      "The weak limb becomes thin and does not grow as fast."
+    ],
+    "causes": [
+      "A virus infection."
+    ],
+    "signs_of_danger": [],
+    "treatment": [
+      "No medicine will correct the paralysis.",
+      "Calm the pain with acetaminophen or ibuprofen and put hot soaks on painful muscles.",
+      "Position the child to be comfortable and avoid contractures.",
+      "Help the child learn to walk with supports like poles or crutches.",
+      "Leg braces (calipers) and other aids may help."
+    ],
+    "prevention": [
+      "Prevented by vaccination.",
+      "Do not give injections to a child with signs of a cold or fever, as this could trigger paralysis in a mild polio case."
+    ]
+  },
+  {
+    "name": "Prostate Gland, Enlarged",
+    "keywords": ["prostate trouble", "urinary difficulty", "dribbling"],
+    "symptoms": [
+      "Difficulty in passing urine and sometimes in having a bowel movement.",
+      "Urine may only dribble or drip or become blocked completely.",
+      "Sometimes the man is not able to urinate for days.",
+      "If he has a fever, this is a sign that infection is also present."
+    ],
+    "causes": [
+      "Swelling of the prostate gland, common in men over 40."
+    ],
+    "signs_of_danger": [
+      "Complete inability to urinate is a medical emergency."
+    ],
+    "treatment": [
+      "If the person cannot urinate, have him try sitting in a tub of hot water.",
+      "If this does not work, a catheter may be needed.",
+      "If he has a fever, use an antibiotic such as ampicillin or tetracycline.",
+      "Get medical help. Serious or chronic cases may require surgery."
+    ],
+    "prevention": []
+  },
+  {
+    "name": "Psoriasis",
+    "keywords": ["skin condition", "scaly patches", "chronic"],
+    "symptoms": [
+      "Thick, rough patches of reddish or blue-gray skin covered with whitish or silver-colored scales.",
+      "The patches appear most commonly on the elbows, knees, back, and chest."
+    ],
+    "causes": [
+      "Unknown."
+    ],
+    "signs_of_danger": [],
+    "treatment": [
+      "Leaving the affected skin open to the sunlight often helps.",
+      "Bathing in the ocean sometimes helps.",
+      "Seek medical advice for long-term treatment."
+    ],
+    "prevention": []
+  },
+  {
+    "name": "Pterygium",
+    "keywords": ["eye growth", "surfer's eye"],
+    "symptoms": [
+      "A fleshy thickening on the eye surface that slowly grows out from the edge of the white part of the eye near the nose and onto the cornea."
+    ],
+    "causes": [
+      "Sunlight, wind, and dust."
+    ],
+    "signs_of_danger": [
+      "If it grows over the pupil, it will block vision."
+    ],
+    "treatment": [
+      "Dark glasses may help calm irritation and slow the growth.",
+      "Should be removed by surgery before it reaches the pupil.",
+      "Cold compresses or eye drops of camomile can help calm itching and burning."
+    ],
+    "prevention": [
+      "Wear sunglasses to protect eyes from sun, wind, and dust."
+    ]
+  },
+  {
+    "name": "Rabies",
+    "keywords": ["mad dog", "hydrophobia", "animal bite"],
+    "symptoms": [
+      "In animals: acts strangely, foaming at the mouth, cannot eat or drink, may go wild and bite, dies within 5 to 7 days.",
+      "In people: pain and tingling in the area of the bite, irregular breathing, pain and difficulty swallowing, fear of liquids, a lot of thick, sticky saliva, nervous or excitable behavior, fits of anger, seizures, and paralysis."
+    ],
+    "causes": [
+      "Bite of a rabid or ‘mad’ animal."
+    ],
+    "signs_of_danger": [
+      "Once symptoms begin in a person, rabies is always fatal."
+    ],
+    "treatment": [
+      "Clean the bite well with soap, water, and hydrogen peroxide. Do not close the wound.",
+      "If the animal is suspected of having rabies, get a series of anti-rabies injections at a health center at once.",
+      "Treatment must begin before the first signs of the sickness appear."
+    ],
+    "prevention": [
+      "Vaccinate dogs against rabies.",
+      "Avoid contact with wild animals or animals acting strangely."
+    ]
+  },
+  {
+    "name": "Rheumatic Fever",
+    "keywords": ["strep throat complication", "joint pain", "heart damage"],
+    "symptoms": [
+      "Fever.",
+      "Joint pain, especially in the wrists and ankles, later the knees and elbows. Joints become swollen, and often hot and red.",
+      "Curved red lines or lumps under the skin.",
+      "Uncontrolled movements.",
+      "In more serious cases, weakness, shortness of breath, and perhaps chest pain."
+    ],
+    "causes": [
+      "A disease of children and young adults, usually beginning 1 to 3 weeks after a strep throat."
+    ],
+    "signs_of_danger": [
+      "Can cause permanent damage to the heart valves."
+    ],
+    "treatment": [
+      "See a health worker.",
+      "Give penicillin for 10 days.",
+      "Take aspirin in large doses for pain and inflammation."
+    ],
+    "prevention": [
+      "Treat all strep throats promptly with penicillin for 10 days.",
+      "A child who has had rheumatic fever may need to take penicillin regularly for many years to prevent it from returning."
+    ]
+  },
+  {
+    "name": "Rickets",
+    "keywords": ["vitamin D deficiency", "bowed legs", "bone deformity"],
+    "symptoms": [
+      "Bowleggedness and other bone deformities in children."
+    ],
+    "causes": [
+      "Lack of vitamin D, often from not enough exposure to sunlight."
+    ],
+    "signs_of_danger": [],
+    "treatment": [
+      "Give the child fortified milk and vitamin D (found in fish liver oil).",
+      "Expose the child’s skin to direct sunlight for at least 10 minutes a day."
+    ],
+    "prevention": [
+      "Ensure children get some sun exposure.",
+      "Provide vitamin D supplements if needed."
+    ]
+  },
+  {
+    "name": "Ringworm",
+    "keywords": ["tinea", "fungus", "itchy rash"],
+    "symptoms": [
+      "Fungus infections that grow in the form of a ring, often itching.",
+      "On the head, it can produce round patches with scales and loss of hair.",
+      "Infected finger and toe nails become rough and thick."
+    ],
+    "causes": [
+      "Fungus infection."
+    ],
+    "signs_of_danger": [],
+    "treatment": [
+      "Wash the infected part every day with soap and water.",
+      "Keep the affected areas dry and exposed to the air or sunlight.",
+      "Use a cream of sulfur and lard.",
+      "Use creams and powders with salicylic or undecylenic acid, or tolnaftate.",
+      "For severe infections, take griseofulvin."
+    ],
+    "prevention": [
+      "Contagious. Do not let a child with a fungal infection sleep with others or share combs or clothing.",
+      "Treat infected people promptly."
+    ]
+  },
+  {
+    "name": "River Blindness (Onchocerciasis)",
+    "keywords": ["onchocerciasis", "black fly", "skin lumps", "blindness"],
+    "symptoms": [
+      "Lumps under the skin, most common on the head and upper body in the Americas, and on the lower body in Africa.",
+      "Itching as baby worms spread.",
+      "Pains in the back, shoulder or hip joints.",
+      "Enlargement of the lymph nodes in the groin.",
+      "Thickening of the skin with big pores like an orange skin.",
+      "Eye problems leading to blindness."
+    ],
+    "causes": [
+      "Tiny worms carried from person to person by black flies."
+    ],
+    "signs_of_danger": [
+      "Eye problems can lead to permanent blindness."
+    ],
+    "treatment": [
+      "Ivermectin is the best medicine.",
+      "Diethylcarbamazine and suramin can also be used, but with caution.",
+      "Antihistamines help reduce itching.",
+      "Surgical removal of the lumps lowers the number of worms."
+    ],
+    "prevention": [
+      "Avoid black fly bites.",
+      "Cooperate with programs for the control of black flies.",
+      "Early treatment prevents blindness and reduces spread of the disease."
+    ]
+  },
+  {
+    "name": "Roundworm (Ascaris)",
+    "keywords": ["ascaris", "worms", "intestinal parasite"],
+    "symptoms": [
+      "General itching when young worms enter the bloodstream.",
+      "Dry cough or pneumonia with coughing of blood when young worms are in the lungs.",
+      "Discomfort, indigestion, and weakness when adult worms are in the intestines.",
+      "Large, swollen bellies in children with many roundworms.",
+      "Worms may come out in the stools or crawl out through the mouth or nose."
+    ],
+    "causes": [
+      "A type of worm that lives in the intestines."
+    ],
+    "signs_of_danger": [
+      "Rarely, a large ball of worms can cause a dangerous obstruction or blockage in the gut."
+    ],
+    "treatment": [
+      "Mebendazole will usually get rid of roundworms.",
+      "Piperazine also works.",
+      "A home remedy using papaya can work fairly well."
+    ],
+    "prevention": [
+      "Use latrines.",
+      "Wash hands before eating or handling food.",
+      "Protect food from flies."
+    ]
+  },
+  {
+    "name": "Scabies (Seven Year Itch)",
+    "keywords": ["seven year itch", "mites", "itchy rash"],
+    "symptoms": [
+      "Very itchy little bumps that can appear all over the body, but are most common between the fingers, on the wrists, around the waist, on the genitals, and between the toes."
+    ],
+    "causes": [
+      "Little animals—similar to tiny ticks or chiggers—which make tunnels under the skin."
+    ],
+    "signs_of_danger": [
+      "Scratching can cause secondary bacterial infection, producing sores with pus, and sometimes swollen lymph nodes or fever."
+    ],
+    "treatment": [
+      "Treat everyone in the family.",
+      "Bathe and change clothes daily.",
+      "Cut fingernails very short.",
+      "Wash all clothes and bedding or, better still, boil them.",
+      "Use a cream containing permethrin.",
+      "If permethrin is not available, try crotamiton or a mixture of sulfur powder and lard, Vaseline or body oil.",
+      "If these treatments do not work, a dose of ivermectin can be tried."
+    ],
+    "prevention": [
+      "Good personal hygiene.",
+      "Avoid close contact with infected individuals and their belongings."
+    ]
+  },
+  {
+    "name": "Schistosomiasis (Blood Flukes, Bilharzia)",
+    "keywords": ["bilharzia", "blood flukes", "snail fever"],
+    "symptoms": [
+      "Blood in the urine or bloody diarrhea.",
+      "Pain in the lower belly and between the legs, usually worst at the end of urinating.",
+      "Low fever, weakness, and itching may occur.",
+      "In women, there may be sores that look like a sexually transmitted infection."
+    ],
+    "causes": [
+      "A kind of worm that gets into the bloodstream, spread through contact with water contaminated with certain snails."
+    ],
+    "signs_of_danger": [
+      "After months or years, the kidneys, liver or spleen may be permanently damaged or enlarged, which can lead to death."
+    ],
+    "treatment": [
+      "Praziquantel works for all types of blood flukes.",
+      "Metrifonate and oxamniquine work for some kinds."
+    ],
+    "prevention": [
+      "Never urinate or defecate in or near water.",
+      "Cooperate with programs to control snails."
+    ]
+  },
+  {
+    "name": "Scorpion Sting",
+    "keywords": ["scorpion", "sting", "venom"],
+    "symptoms": [
+      "Pain."
+    ],
+    "causes": [
+      "Sting from a scorpion."
+    ],
+    "signs_of_danger": [
+      "Can be dangerous to children under 5, especially if the sting is on the head or body."
+    ],
+    "treatment": [
+      "Take aspirin or acetaminophen and if possible put ice on the sting.",
+      "For numbness and pain that lasts, hot compresses may be helpful.",
+      "In children, scorpion antitoxin may be available and should be injected within 2 hours."
+    ],
+    "prevention": [
+      "Be careful in areas where scorpions are common (shake out shoes and clothes)."
+    ]
+  },
+  {
+    "name": "Seizures (Fits, Convulsions)",
+    "keywords": ["convulsions", "fits", "epilepsy", "spasms"],
+    "symptoms": [
+      "Sudden loss of consciousness and strange, jerking movements."
+    ],
+    "causes": [
+      "High fever and severe dehydration (in small children).",
+      "Meningitis, malaria of the brain, or poisoning (in very ill persons).",
+      "Eclampsia (in pregnant women).",
+      "Epilepsy (in people who often have seizures).",
+      "Tetanus."
+    ],
+    "signs_of_danger": [
+      "A seizure lasting more than 15 minutes.",
+      "Repeated seizures without regaining consciousness.",
+      "Seizures accompanied by signs of a serious underlying illness like meningitis or tetanus."
+    ],
+    "treatment": [
+      "Treat the cause, if possible.",
+      "If the child has a high fever, lower it with cool water.",
+      "If the child is dehydrated, give an enema of Rehydration Drink slowly.",
+      "During a seizure, protect the person from hurting himself but do not put anything in his mouth.",
+      "If a seizure lasts more than 15 minutes, put liquid diazepam in the anus."
+    ],
+    "prevention": [
+      "Promptly treat high fevers in children.",
+      "Prevent dehydration.",
+      "For epilepsy, take preventive medication regularly."
+    ]
+  },
+  {
+    "name": "Shingles (Herpes Zoster)",
+    "keywords": ["herpes zoster", "blisters", "rash", "nerve pain"],
+    "symptoms": [
+      "A line or patch of painful blisters that suddenly appears on one side of the body, often in a stripe or cluster.",
+      "The blisters usually last 2 or 3 weeks, then go away by themselves.",
+      "Sometimes the pain continues or returns long after the blisters are gone."
+    ],
+    "causes": [
+      "The same virus that causes chickenpox, reactivating in the body."
+    ],
+    "signs_of_danger": [
+      "Can be a sign of a weakened immune system, for example, from HIV."
+    ],
+    "treatment": [
+      "Put light bandages over the rash.",
+      "Take aspirin for the pain.",
+      "Acyclovir can help keep herpes blisters from spreading."
+    ],
+    "prevention": []
+  },
+  {
+    "name": "Shock",
+    "keywords": ["circulatory collapse", "low blood pressure", "weak pulse"],
+    "symptoms": [
+      "Weak, rapid pulse.",
+      "‘Cold sweat’; pale, cold, damp skin.",
+      "Blood pressure drops dangerously low.",
+      "Mental confusion, weakness, or loss of consciousness."
+    ],
+    "causes": [
+      "A large burn, losing a lot of blood, severe illnesses, dehydration, or severe allergic reaction."
+    ],
+    "signs_of_danger": [
+      "Shock is a life-threatening condition."
+    ],
+    "treatment": [
+      "Loosen any tight clothing.",
+      "Have the person lie down with his feet a little higher than his head.",
+      "Stop any bleeding.",
+      "If the person feels cold, cover him with a blanket.",
+      "If he is conscious and able to drink, give him sips of water or other drinks.",
+      "If he is unconscious, lay him on his side with his head low and clear his mouth if he has vomited."
+    ],
+    "prevention": [
+      "Promptly treat conditions that can lead to shock, like severe bleeding or dehydration."
+    ]
+  },
+  {
+    "name": "Sickle Cell Disease (Sickle Cell Anemia)",
+    "keywords": ["sickle cell anemia", "hereditary anemia", "pain crisis"],
+    "symptoms": [
+      "Fever and crying.",
+      "Occasional swelling of the feet and fingers which lasts for 1 or 2 weeks.",
+      "Big belly that feels hard at the top.",
+      "Anemia, and sometimes yellow color in the eyes (jaundice).",
+      "Child frequently sick (cough, malaria, diarrhea).",
+      "Child grows slowly.",
+      "By age 2, bony bumps may appear on the head (‘bossing’)."
+    ],
+    "causes": [
+      "A hereditary ‘weakness of the blood’."
+    ],
+    "signs_of_danger": [
+      "A 'sickle cell crisis' with high fever and severe pain in the arms, legs, or belly can be brought on by infections and can be life-threatening."
+    ],
+    "treatment": [
+      "Protect the child from malaria and other diseases and infections.",
+      "Give regular malaria medicines to help prevent the disease.",
+      "Give a daily dose of folic acid to help build up the blood.",
+      "Get all vaccinations at the earliest recommended time.",
+      "At the first sign of illness, take the child to a health worker.",
+      "Give plenty of water to drink, and acetaminophen for pain in the bones.",
+      "Avoid exposure to cold."
+    ],
+    "prevention": [
+      "The disease itself cannot be prevented, but crises can be prevented by avoiding infections and cold, and staying hydrated."
+    ]
+  },
+  {
+    "name": "Sinus Trouble (Sinusitis)",
+    "keywords": ["sinusitis", "facial pain", "nasal congestion"],
+    "symptoms": [
+      "Pain in the face above and below the eyes.",
+      "Thick mucus or pus in the nose, perhaps with a bad smell.",
+      "The nose is often stuffy.",
+      "Fever (sometimes).",
+      "Certain teeth may hurt."
+    ],
+    "causes": [
+      "Acute or chronic inflammation of the sinuses, usually after an infection of the ears or throat, or after a bad cold."
+    ],
+    "signs_of_danger": [],
+    "treatment": [
+      "Drink a lot of water.",
+      "Sniff a little salt water into the nose, or breathe steam from hot water.",
+      "Put hot compresses on the face.",
+      "Use decongestant nose drops.",
+      "Use an antibiotic such as tetracycline, ampicillin, or penicillin."
+    ],
+    "prevention": [
+      "When you have a cold and stuffy nose, try to keep your nose clear using salt water and steam."
+    ]
+  },
+  {
+    "name": "Sore Throat and Inflamed Tonsils",
+    "keywords": ["tonsillitis", "pharyngitis", "strep throat"],
+    "symptoms": [
+      "The throat may be red and hurt when the child swallows.",
+      "The tonsils may become large and painful or drain pus.",
+      "Fever may reach 40°."
+    ],
+    "causes": [
+      "Often begin with the common cold."
+    ],
+    "signs_of_danger": [
+      "Strep throat (sudden severe sore throat and high fever) should be treated with penicillin to prevent the danger of rheumatic fever."
+    ],
+    "treatment": [
+      "Gargle with warm salt water.",
+      "Take acetaminophen for pain.",
+      "Be sure the child drinks enough, even if it hurts to swallow.",
+      "If it could be strep throat, give penicillin for 10 days."
+    ],
+    "prevention": []
+  },
+  {
+    "name": "Spider Bites",
+    "keywords": ["arachnid bite", "black widow", "venom"],
+    "symptoms": [
+      "Painful.",
+      "The bite of a few kinds of spiders—such as the ‘black widow’—can cause painful muscle cramps all over the body, and extreme pain in the stomach muscles."
+    ],
+    "causes": [
+      "Bite from a spider."
+    ],
+    "signs_of_danger": [
+      "The bite of a black widow can be dangerous for a small child."
+    ],
+    "treatment": [
+      "Give acetaminophen or aspirin.",
+      "Seek medical help.",
+      "Diazepam may help reduce muscular spasms.",
+      "If signs of shock develop, treat for allergic shock.",
+      "Injections of cortisone may be needed in children.",
+      "Give tetanus antitoxin."
+    ],
+    "prevention": [
+      "Be careful in areas where dangerous spiders are common."
+    ]
+  },
+  {
+    "name": "Sprains and Strains",
+    "keywords": ["twisted joint", "ligament injury", "muscle strain"],
+    "symptoms": [
+      "Bruising, tearing, or stretching in a twisted joint."
+    ],
+    "causes": [
+      "Twisting a joint."
+    ],
+    "signs_of_danger": [],
+    "treatment": [
+      "Keep the joint motionless.",
+      "Wrap it with something that gives firm support.",
+      "Use crutches for a sprained foot.",
+      "Keep the sprained part raised high.",
+      "During the first day or two, put ice or cold, wet cloths over the swollen joint.",
+      "After 24 to 48 hours, soak the sprain in hot water several times a day.",
+      "Wrap with an elastic bandage.",
+      "Take aspirin or acetaminophen."
+    ],
+    "prevention": [
+      "Be careful to avoid injuries."
+    ]
+  },
+  {
+    "name": "Stomach Ulcers",
+    "keywords": ["peptic ulcer", "gastric ulcer", "heartburn", "acid indigestion"],
+    "symptoms": [
+      "Chronic, dull (sometimes sharp) pain in the pit of the stomach.",
+      "Pain lessens when the person eats food or drinks a lot of water.",
+      "Pain gets worse an hour or more after eating, if the person misses a meal, or after he drinks alcohol or eats fatty or spicy foods.",
+      "Pain is often worse at night."
+    ],
+    "causes": [
+      "A chronic sore in the digestive system, usually caused by bacteria (H. pylori).",
+      "Too much acid in the stomach prevents it from healing."
+    ],
+    "signs_of_danger": [
+      "Vomiting blood (fresh blood or looks like coffee grounds).",
+      "Black, tarry stools.",
+      "These are signs of a bleeding ulcer, which is a medical emergency."
+    ],
+    "treatment": [
+      "Do not eat too much. Eat small meals and frequent snacks.",
+      "Avoid alcoholic drinks, coffee, spices, pepper, carbonated drinks, and fatty or greasy foods.",
+      "If heartburn is worse at night, sleep with the upper body somewhat raised.",
+      "Drink a lot of water.",
+      "Avoid tobacco.",
+      "Take antacids.",
+      "If the above treatments do not work, use amoxicillin or tetracycline, and metronidazole. Also take omeprazole or ranitidine.",
+      "Aloe vera is a plant that is said to heal ulcers."
+    ],
+    "prevention": [
+      "Avoid things that increase stomach acid: smoking, excessive alcohol and coffee, stress."
+    ]
+  },
+  {
+    "name": "Stroke (Apoplexy, Cerebro-Vascular Accident, CVA)",
+    "keywords": ["CVA", "brain attack", "paralysis", "apoplexy"],
+    "symptoms": [
+      "Sudden fall and unconsciousness.",
+      "Reddish face, hoarse and noisy breathing, strong and slow pulse.",
+      "May remain in a coma for hours or days.",
+      "If the person lives, may have trouble speaking, seeing, or thinking, or one side of the face and body may be paralyzed."
+    ],
+    "causes": [
+      "A blood clot or bleeding inside the brain."
+    ],
+    "signs_of_danger": [
+      "A major stroke is a life-threatening medical emergency."
+    ],
+    "treatment": [
+      "Put the person in bed with her head a little higher than her feet.",
+      "If she is unconscious, roll her head back and to one side so her saliva runs out of her mouth.",
+      "While she is unconscious, give no food, drink, or medicines by mouth.",
+      "Seek medical help.",
+      "After the stroke, if the person remains partly paralyzed, help her with rehabilitation exercises."
+    ],
+    "prevention": [
+      "Control high blood pressure.",
+      "Eat a healthy diet.",
+      "Do not smoke or drink a lot of alcohol.",
+      "Stay physically active."
+    ]
+  },
+  {
+    "name": "Sty (Hordeolum)",
+    "keywords": ["eyelid infection", "pimple on eyelid"],
+    "symptoms": [
+      "A red, swollen lump on the eyelid, usually near its edge."
+    ],
+    "causes": [
+      "Infection."
+    ],
+    "signs_of_danger": [],
+    "treatment": [
+      "Apply warm, moist compresses with a little salt in the water.",
+      "Use an antibiotic eye ointment 3 times a day to prevent more sties from occurring."
+    ],
+    "prevention": [
+      "Good eye hygiene."
+    ]
+  },
+  {
+    "name": "Syphilis",
+    "keywords": ["STI", "venereal disease", "chancre", "rash"],
+    "symptoms": [
+      "First sign is usually a painless sore (chancre) on the genitals, lips, fingers, anus, or mouth, 2 to 5 weeks after sexual contact.",
+      "The sore lasts a few days and then goes away by itself.",
+      "Weeks or months later, there may be sore throat, mild fever, mouth sores, or swollen joints.",
+      "A painful rash or ‘pimples’ all over the body, ring-shaped welts, or an itchy rash on the hands or feet may appear."
+    ],
+    "causes": [
+      "A common and dangerous infection that is spread from person to person through sexual contact."
+    ],
+    "signs_of_danger": [
+      "Without treatment, syphilis can invade any part of the body, causing heart disease, paralysis, insanity, and many other serious problems, eventually leading to death."
+    ],
+    "treatment": [
+      "If signs have been present less than 1 year, inject benzathine penicillin all at once. If allergic to penicillin, take tetracycline or erythromycin by mouth for 15 days.",
+      "If signs have been present more than 1 year, inject benzathine penicillin once a week for 3 weeks. If allergic to penicillin, take either tetracycline or erythromycin for 30 days.",
+      "Treat everyone who has had sexual contact with a person known to have syphilis."
+    ],
+    "prevention": [
+      "Practice safer sex by using condoms.",
+      "Have sex with only one faithful partner."
+    ]
+  },
+  {
+    "name": "Tapeworm",
+    "keywords": ["cestode", "intestinal worm", "pork tapeworm", "beef tapeworm"],
+    "symptoms": [
+      "Small, flat, white pieces (segments) in the feces.",
+      "Sometimes mild stomach aches."
+    ],
+    "causes": [
+      "Eating pork, beef, or other meat or fish that is not well cooked."
+    ],
+    "signs_of_danger": [
+      "The greatest danger is when the cysts (baby worms) get into a person’s brain (neurocysticercosis), which can cause headaches, seizures, or death."
+    ],
+    "treatment": [
+      "Take niclosamide or praziquantel."
+    ],
+    "prevention": [
+      "Cook all meat and fish thoroughly.",
+      "Good hygiene to prevent passing eggs from stool to mouth, which causes cysts in the brain."
+    ]
+  },
+  {
+    "name": "Tetanus (Lockjaw)",
+    "keywords": ["lockjaw", "wound infection", "spasms", "vaccine-preventable"],
+    "symptoms": [
+      "An infected wound.",
+      "Discomfort and difficulty in swallowing.",
+      "Stiff jaw, then stiff muscles of the neck and other parts of the body.",
+      "Painful convulsions of the jaw and then the whole body."
+    ],
+    "causes": [
+      "A germ that lives in the feces of animals or people enters the body through a wound."
+    ],
+    "signs_of_danger": [
+      "Tetanus is a deadly disease. The painful spasms can become so strong they stop breathing."
+    ],
+    "treatment": [
+      "Seek medical help at the first sign.",
+      "Open and clean the wound.",
+      "Inject procaine penicillin.",
+      "Inject Tetanus Immune Globulin or Tetanus Antitoxin.",
+      "Give nutritious liquids.",
+      "To control convulsions, give diazepam.",
+      "Keep the person quiet and avoid noise and bright light."
+    ],
+    "prevention": [
+      "Vaccination is the surest protection.",
+      "Clean all wounds thoroughly, especially deep or dirty ones.",
+      "For newborn babies, ensure the umbilical cord is cut with a sterile instrument and kept clean and dry."
+    ]
+  },
+  {
+    "name": "Thrush (Moniliasis)",
+    "keywords": ["moniliasis", "Candida", "yeast infection", "white patches in mouth"],
+    "symptoms": [
+      "Small white patches on the inside of the mouth and tongue that look like milk curds stuck to raw meat."
+    ],
+    "causes": [
+      "A fungus or yeast infection."
+    ],
+    "signs_of_danger": [
+      "In very severe cases, or if thrush moves into the throat and makes it hard to swallow, it can be serious."
+    ],
+    "treatment": [
+      "Use nystatin or paint the inside of the mouth with gentian violet.",
+      "Eating yogurt may also help."
+    ],
+    "outcome": "Treatable. Common in newborn babies, persons with HIV, and persons using certain antibiotics."
+  },
+  {
+    "name": "Ticks and Chiggers",
+    "keywords": ["tick bite", "chigger bite", "parasite"],
+    "symptoms": [
+      "Itching or pain from bites."
+    ],
+    "causes": [
+      "Bites from ticks and chiggers."
+    ],
+    "signs_of_danger": [
+      "Some dangerous infections (like typhus) or paralysis are spread by tick bites."
+    ],
+    "treatment": [
+      "Remove ticks carefully to ensure the head does not remain in the skin.",
+      "Use remedies for scabies to remove very small ticks or chiggers.",
+      "Take aspirin to relieve itching or pain."
+    ],
+    "prevention": [
+      "Dust sulfur powder on the body before going into fields or forests.",
+      "Check the body for ticks after being in areas where they are common."
+    ]
+  },
+  {
+    "name": "Tinea versicolor",
+    "keywords": ["fungus", "skin spots", "pityriasis versicolor"],
+    "symptoms": [
+      "Small dark or light spots with a distinct and irregular border on the neck, chest, and back.",
+      "The spots may be slightly scaly but usually do not itch."
+    ],
+    "causes": [
+      "A mild fungus infection."
+    ],
+    "signs_of_danger": [],
+    "treatment": [
+      "Make a cream with sulfur and lard and apply it to the whole body every day.",
+      "Use an anti-fungal cream.",
+      "Dissolve sodium thiosulfate in water and apply it to the upper body, then rub the skin with a piece of cotton dipped in vinegar.",
+      "Selenium sulfide or Whitfield’s ointment may also help."
+    ],
+    "prevention": [
+      "To prevent spots from returning, repeat treatment every 2 weeks."
+    ]
+  },
+  {
+    "name": "Trachoma",
+    "keywords": ["eye infection", "blindness", "conjunctivitis"],
+    "symptoms": [
+      "Begins with red, watery eyes.",
+      "Small, pinkish gray lumps (follicles) form inside the upper eyelids.",
+      "The top edge of the cornea looks grayish (pannus).",
+      "After several years, whitish scars form on the eyelids, which may pull the eyelashes down into the eye."
+    ],
+    "causes": [
+      "A chronic infection spread by touch or by flies."
+    ],
+    "signs_of_danger": [
+      "Can cause blindness if not treated early."
+    ],
+    "treatment": [
+      "Put 1% tetracycline or erythromycin eye ointment inside the eye 3 times each day for 30 days.",
+      "Also take tetracycline, erythromycin, or a sulfonamide by mouth for 2 to 3 weeks."
+    ],
+    "prevention": [
+      "Good personal hygiene, especially washing the face every day.",
+      "Control flies.",
+      "Early and complete treatment helps prevent spread."
+    ]
+  },
+  {
+    "name": "Trichinosis",
+    "keywords": ["pork worm", "muscle pain", "parasite"],
+    "symptoms": [
+      "From a few hours to 5 days after eating infected pork, the person may develop diarrhea and feel sick to her stomach.",
+      "In serious cases, there may be fever with chills, muscle pain, swelling around the eyes and sometimes swelling of the feet, small bruises on the skin, and bleeding in the whites of the eyes."
+    ],
+    "causes": [
+      "Worms that burrow through the intestines and get into the muscles, from eating infected pork or other meat that is not well cooked."
+    ],
+    "signs_of_danger": [
+      "A person may become very sick or die."
+    ],
+    "treatment": [
+      "Seek medical help at once.",
+      "Albendazole or mebendazole may help.",
+      "Cortico-steroids may help in severe cases."
+    ],
+    "prevention": [
+      "Only eat pork and other meat that has been well cooked.",
+      "Do not feed raw meat scraps to pigs."
+    ]
+  },
+  {
+    "name": "Tuberculosis (TB, Consumption)",
+    "keywords": ["TB", "consumption", "cough", "lung infection"],
+    "symptoms": [
+      "A cough that lasts longer than 3 weeks.",
+      "Slight fever in the evening and sweating at night.",
+      "Pain in the chest or upper back.",
+      "Chronic loss of weight and increasing weakness.",
+      "In serious or advanced cases: coughing up blood, pale, waxy skin, hoarse voice.",
+      "In young children: steady weight loss, frequent fever, lighter skin color, swellings in the neck or belly."
+    ],
+    "causes": [
+      "A chronic, contagious bacterial disease."
+    ],
+    "signs_of_danger": [
+      "Coughing up blood.",
+      "Severe weight loss.",
+      "Can spread to other parts of the body, like the brain (tubercular meningitis)."
+    ],
+    "treatment": [
+      "Seek medical help.",
+      "Take a combination of medicines (isoniazid, rifampin, pyrazinamide, ethambutol, streptomycin) for 6 months to more than a year.",
+      "Eat as well as possible and get plenty of rest."
+    ],
+    "prevention": [
+      "BCG vaccination for children.",
+      "A person with TB should cover their mouth when coughing and sleep separately from children.",
+      "Ensure good nutrition, as malnutrition increases risk.",
+      "Early and full treatment prevents spread."
+    ]
+  },
+  {
+    "name": "Typhoid Fever",
+    "keywords": ["enteric fever", "fever", "diarrhea", "contaminated food/water"],
+    "symptoms": [
+      "First week: begins like a cold or flu with headache, sore throat, and dry cough. The fever rises a little more each day. The pulse is often relatively slow for the amount of fever.",
+      "Second week: high fever, relatively slow pulse, a few pink spots on the body, trembling, delirium, weakness, weight loss, dehydration.",
+      "Third week: if there are no complications, the fever and other symptoms slowly go away."
+    ],
+    "causes": [
+      "An infection of the gut that affects the whole body, spread from feces-to-mouth in contaminated food and water."
+    ],
+    "signs_of_danger": [
+      "Can cause serious complications like internal bleeding, peritonitis, or pneumonia."
+    ],
+    "treatment": [
+      "Seek medical help.",
+      "Give ciprofloxacin, chloramphenicol, ampicillin, or cotrimoxazole.",
+      "Lower the fever with cool wet cloths.",
+      "Give plenty of liquids and nutritious foods.",
+      "The person should stay in bed until the fever is completely gone."
+    ],
+    "prevention": [
+      "Good personal and public hygiene: use latrines, ensure clean water and food.",
+      "Vaccination is available."
+    ]
+  },
+  {
+    "name": "Typhus",
+    "keywords": ["lice-borne", "tick-borne", "flea-borne", "rash", "fever"],
+    "symptoms": [
+      "Begins like a bad cold. After a week or more, fever begins, with chills, headache, and pain in the muscles and chest.",
+      "After a few days of fever, a rash of tiny bruises appears.",
+      "The fever lasts 2 weeks or more."
+    ],
+    "causes": [
+      "An infection transmitted by bites of lice, ticks, or rat fleas."
+    ],
+    "signs_of_danger": [],
+    "treatment": [
+      "Get medical advice.",
+      "Give tetracycline or chloramphenicol."
+    ],
+    "prevention": [
+      "Keep clean and de-louse regularly.",
+      "Remove ticks from dogs.",
+      "Control rats and rat fleas."
+    ]
+  },
+  {
+    "name": "Urinary Tract Infections",
+    "keywords": ["UTI", "bladder infection", "cystitis", "kidney infection"],
+    "symptoms": [
+      "Painful urination and need to urinate very often.",
+      "Unable to hold in urine.",
+      "Urine may be cloudy or reddish (bloody).",
+      "Sometimes pain in the side, lower back, or down the legs."
+    ],
+    "causes": [
+      "Infection of the urinary tract."
+    ],
+    "signs_of_danger": [
+      "Pain in the mid or lower back with fever indicates a more serious kidney infection."
+    ],
+    "treatment": [
+      "Drink a lot of water.",
+      "If drinking water does not cure it, or if there is fever, take cotrimoxazole or amoxicillin.",
+      "If the infection moves into the kidneys or does not respond to treatment, try ciprofloxacin."
+    ],
+    "prevention": [
+      "Drink plenty of water.",
+      "For women, urinate after sexual contact.",
+      "Wipe from front to back after a bowel movement."
+    ]
+  },
+  {
+    "name": "Varicose Veins",
+    "keywords": ["swollen veins", "leg pain", "poor circulation"],
+    "symptoms": [
+      "Swollen, twisted, and often painful veins, often on the legs."
+    ],
+    "causes": [
+      "Common in older people and women who are pregnant or who have had many children."
+    ],
+    "signs_of_danger": [
+      "Can lead to chronic sores or ulcers on the ankles."
+    ],
+    "treatment": [
+      "Do not spend much time standing or sitting with your feet down.",
+      "Rest with your feet up often.",
+      "Sleep with your feet up.",
+      "Use elastic stockings or elastic bandages."
+    ],
+    "prevention": [
+      "Regular exercise.",
+      "Avoid prolonged standing or sitting."
+    ]
+  },
+  {
+    "name": "Vomiting",
+    "keywords": ["nausea", "throwing up", "emesis"],
+    "symptoms": [
+      "Throwing up the contents of the stomach."
+    ],
+    "causes": [
+      "Stomach upset, infection, food poisoning, acute abdomen, high fever, severe pain, malaria, hepatitis, tonsillitis, earache, meningitis, urinary infection, gallbladder pain, or migraine headache."
+    ],
+    "signs_of_danger": [
+      "Dehydration that increases and cannot be controlled.",
+      "Severe vomiting that lasts more than 24 hours.",
+      "Violent vomiting, especially if vomit is dark green, brown, or smells like feces (sign of obstruction).",
+      "Vomiting of blood."
+    ],
+    "treatment": [
+      "Eat nothing while vomiting is severe.",
+      "Sip a cola drink or ginger ale.",
+      "For dehydration give small frequent sips of Rehydration Drink.",
+      "If vomiting does not stop soon, use a vomit control medicine like promethazine or diphenhydramine."
+    ],
+    "prevention": [
+      "Depends on the cause. Good food hygiene can prevent vomiting from food poisoning."
+    ]
+  },
+  {
+    "name": "Warts (Verrucae)",
+    "keywords": ["verrucae", "skin growth", "virus"],
+    "symptoms": [
+      "Small growths on the skin."
+    ],
+    "causes": [
+      "Virus."
+    ],
+    "signs_of_danger": [],
+    "treatment": [
+      "Most warts go away by themselves in 3 to 5 years.",
+      "Magical or household cures often work.",
+      "Painful plantar warts can sometimes be removed by a health worker."
+    ],
+    "prevention": []
+  },
+  {
+    "name": "Whipworm (Trichuris)",
+    "keywords": ["trichuris", "intestinal worm", "parasite"],
+    "symptoms": [
+      "Usually does little harm, but may cause diarrhea."
+    ],
+    "causes": [
+      "A type of worm passed from the feces of one person to the mouth of another person."
+    ],
+    "signs_of_danger": [
+      "In children, it occasionally causes part of the intestines to come out of the anus (prolapse of the rectum)."
+    ],
+    "treatment": [
+      "If the worms cause a problem, give mebendazole.",
+      "For prolapse of the rectum, turn the child upside down and pour cool water on the intestine."
+    ],
+    "prevention": [
+      "Use latrines.",
+      "Wash hands before eating or handling food."
+    ]
+  },
+  {
+    "name": "Whooping Cough",
+    "keywords": ["pertussis", "coughing fits", "whoop", "vaccine-preventable"],
+    "symptoms": [
+      "Starts like a cold with fever, a runny nose, and cough.",
+      "Two weeks later, the whoop begins: the child coughs rapidly many times without taking a breath, until she coughs up a plug of sticky mucus, and the air rushes back into her lungs with a loud whoop.",
+      "Lips and nails may turn blue while coughing.",
+      "May vomit after the whoop.",
+      "Often lasts 3 months or more."
+    ],
+    "causes": [
+      "Bacterial infection."
+    ],
+    "signs_of_danger": [
+      "Especially dangerous in babies under 1 year of age, as they can stop breathing after a coughing fit."
+    ],
+    "treatment": [
+      "Antibiotics are helpful only in the early stage, before the whoop begins.",
+      "If the cough causes convulsions, phenobarbital may help.",
+      "If the baby stops breathing after a cough, turn her over and pull the sticky mucus from her mouth, then slap her on the back.",
+      "Be sure the child gets enough nutritious food."
+    ],
+    "prevention": [
+      "Prevented by the DPT vaccine."
+    ]
+  },
+  {
+    "name": "Wounds (Bullet, Knife, and other serious wounds)",
+    "keywords": ["trauma", "injury", "bleeding", "first aid"],
+    "symptoms": [
+      "Deep wounds that carry a high risk of dangerous infection."
+    ],
+    "causes": [
+      "Injury from bullets, knives, etc."
+    ],
+    "signs_of_danger": [
+      "Heavy bleeding.",
+      "Wounds that penetrate the chest, abdomen, or head.",
+      "High risk of tetanus and other serious infections."
+    ],
+    "treatment": [
+      "Give an antibiotic like cloxacillin or clindamycin at once.",
+      "Get a tetanus immunization if not already vaccinated.",
+      "Control bleeding.",
+      "Clean the wound.",
+      "For deep wounds in the abdomen, cover the wound and seek medical help immediately. Do not give anything by mouth."
+    ],
+    "prevention": [
+      "Avoid violence and accidents."
+    ]
+  }
+]

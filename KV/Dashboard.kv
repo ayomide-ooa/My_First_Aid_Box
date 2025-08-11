@@ -1,0 +1,59 @@
+<Dashboard>
+    id: 'dashboard'
+    orientation: 'vertical'
+#    md_bg_color: app.theme_cls.backgroundColor
+
+    MDTopAppBar:
+        type: 'small'
+        md_bg_color: app.theme_cls.secondaryContainerColor
+        pos_hint: {'top': 1}
+        font_family: 'T1Robit'
+        font_name: 'T1Robit'
+        title_font: 'T1Robit'
+
+        MDTopAppBarTitle:
+            bold: True
+            text: 'MyFAB'
+            text_color: app.theme_cls.primaryColor
+            title_font: 'T1Robit'
+            font_family: 'T1Robit'
+            font_name: 'T1Robit'
+        MDTopAppBarLeadingButtonContainer:
+            MDActionTopAppBarButton:
+                icon: 'plus-circle-multiple'
+
+        MDTopAppBarTrailingButtonContainer:
+            MDActionTopAppBarButton:
+                icon: 'account-circle'
+
+    MDScreenManager:
+        id: screen_manager
+
+        HomeScreen:
+            name: 'home'
+        ChatScreen:
+            name: 'message-text'
+        HistoryScreen:
+            name: 'history'
+        SettingScreen:
+            name: 'cog'
+
+    MDNavigationBar:
+        on_switch_tabs: root.on_switch_tabs(*args)
+        md_bg_color: app.theme_cls.primaryColor
+        pos_hint: {'bottom': .5}
+        BaseMDNavigationItem
+            icon: 'home'
+            active: True
+        BaseMDNavigationItem
+            icon: 'message-text'
+        BaseMDNavigationItem
+            icon: 'history'
+        BaseMDNavigationItem
+            icon: 'cog'
+
+<BaseMDNavigationItem>
+    MDNavigationItemIcon:
+        icon: root.icon
+    MDNavigationItemLabel:
+        text: root.text
